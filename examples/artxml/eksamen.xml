@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE artiklar SYSTEM "http://torborg.uib.no/trans/norskordbok/no2014-1/prod/bokmaalsordbok.dtd">
+<artiklar ordbok="NOB">
+  <artikkelbolk>
+    <avsnitt>
+      <artikkel artid="11934" artikkeltype="NORMALARTIKKEL" oppslagsform="eksamen" sortform="eksamen" sortrekke="a" status="Retur redaktør" statussignatur="CEO" statusdato="06.10.2016" redaktor="CEO" papir2014="J" avsnitt2014="J">
+        <oppslagliste>
+          <oppslag id="13753" nr="0" pos="1">
+            <homografnummer>0</homografnummer>
+            <oppslagsord>eksamen</oppslagsord>
+            <oppsgramliste>
+              <oppsgram grmid="1" pos="1">
+                <oppsgramordklasse>m1</oppsgramordklasse>
+              </oppsgram>
+            </oppsgramliste>
+          </oppslag>
+        </oppslagliste>
+        <hakeparentes>
+          <hpetymspraakliste>
+            <hpetymspraak esid="232498" pos="1">
+              <hpetymspraakinnleiing>fra</hpetymspraakinnleiing>
+              <spraak spraakid="29">lat.</spraak>
+              <hpetymspraakspesifisering>'gransking'</hpetymspraakspesifisering>
+            </hpetymspraak>
+          </hpetymspraakliste>
+        </hakeparentes>
+        <tydingsbolk>
+          <tyding tydingid="13885" tydingforelderid="988372" tydingartikkelid="11934" tydingtype="NORMALTYDING" nivaa="1" pos="1">
+            <tydingdefnr>A</tydingdefnr>
+            <tydingsvariantliste>
+              <tydingsvariant tydid="2277507" pos="1">
+                <tydingstekst>avsluttende prøve ved skole, kurs, studium &el; ved en del av det</tydingstekst>
+              </tydingsvariant>
+            </tydingsvariantliste>
+            <doemeliste>
+              <doeme doemeid="10797" pos="1">
+                <sitattekst>dele-, embetse-</sitattekst>
+              </doeme>
+              <doeme doemeid="10798" pos="2">
+                <sitattekst>lese til e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10799" pos="3">
+                <sitattekst>bestå en e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10800" pos="4">
+                <sitattekst>stå til, stryke til e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10801" pos="5">
+                <sitattekst>være oppe til e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10802" pos="6">
+                <sitattekst>trekke seg fra e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10803" pos="7">
+                <sitattekst>muntlig, skriftlig e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10804" pos="8">
+                <sitattekst>ta, få, greie e-</sitattekst>
+              </doeme>
+              <doeme doemeid="10805" pos="9">
+                <sitattekst>en god, dårlig e-</sitattekst>
+                <sitatforklaring>godt, dårlig eksamensresultat</sitatforklaring>
+              </doeme>
+            </doemeliste>
+          </tyding>
+        </tydingsbolk>
+      </artikkel>
+    </avsnitt>
+  </artikkelbolk>
+</artiklar>

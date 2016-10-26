@@ -1,0 +1,414 @@
+<!-- !ENTITY endash "<nosymb_endash/>"> -->
+<!--    <!ENTITY mdash "&endash;">  -->
+<!-- <!ENTITY acute "<nosymb_acute/>"  -->
+<!-- <!ENTITY aeligcirc "<nosymb_aeligcirc/>"> -->
+<!-- <!ENTITY dpalat "<nosymb_dpalat/>"> -->
+<!-- <!ENTITY grad "<nosymb_grad/>"> -->
+<!-- <!ENTITY lpalat "<nosymb_lpalat/>"> -->
+<!-- <!ENTITY lstrek "<nosymb_lstrek/>"> -->
+<!-- <!ENTITY ltjukk "<nosymb_lstrek/>"> -->
+<!-- <!ENTITY npalat "<nosymb_npalat/>"> -->
+<!-- <!ENTITY Oogon "<nosymb_Oogonek/>"> -->
+<!-- <!ENTITY oogon "<nosymb_oogonek/>"> -->
+<!-- <!ENTITY Oogonek "&#x01EA;"> -->
+<!-- <!ENTITY oogonek "&#x01EB;"> -->
+<!-- <!ENTITY oslashacute "<nosymb_oslashacute/>"> -->
+<!-- <!ENTITY oslashcirc "<nosymb_oslashcirc/>"> --> 
+<!-- <!ENTITY sect "<nosymb_sect/>"> -->
+<!-- <!ENTITY tpalat "<nosymb_tpalat/>"> -->
+<!-- <!ENTITY ycirc "UKJENT TEGN YCIRC"> -->
+<!-- <!ENTITY ygrave "<nosymb_ygrave/>"> -->
+<!-- SPRaaK  -->
+<!--<!ENTITY t_d "t&nbsp;d"> -->
+<!ENTITY acute "'">
+<!ENTITY adj "adjektiv ">
+<!ENTITY s_adj "som adjektiv ">
+<!ENTITY adjsk "adjektivisk ">
+<!ENTITY adv "adverb ">
+<!ENTITY s_adv "som adverb ">
+<!ENTITY aelig "&#x00E6;">
+<!-- <!ENTITY aelig "<nosymb_aelig/>"> -->
+<!ENTITY ags " angelsaksisk ">
+<!ENTITY akk "akkusativ ">
+<!ENTITY Alpha "&#x391;">
+<!ENTITY alpha "&#x3B1;">
+<!ENTITY am "amerikansk ">
+<!ENTITY am_e "amerikanske ">
+<!ENTITY am-eng " amerikansk-engelsk ">
+<!ENTITY arab "arabisk ">
+<!ENTITY aring "&#x00E5;">
+<!ENTITY arkais "arkaiserende">
+<!ENTITY art "artikkel ">
+<!ENTITY art_en "artikkelen ">
+<!ENTITY ast "*">
+<!ENTITY astron "astronomi">
+<!ENTITY Auml "&#x00C4;">
+<!ENTITY avl "avledning ">
+<!ENTITY b "bestemt ">
+<!ENTITY besl "beslektet ">
+<!ENTITY bet "betydning ">
+<!ENTITY bet_er "betydninger ">
+<!ENTITY Beta "&#x392;">
+<!ENTITY beta "&#x3B2;">
+<!ENTITY bf "bestemt form ">
+<!ENTITY bf "bunden form">
+<!ENTITY bibl "bibelspr&aring;k">
+<!ENTITY bil "bildelig">
+<!ENTITY bio "biologi">
+<!ENTITY bl_a "blant annet ">
+<!ENTITY bm " bokm&aring;l ">
+<!ENTITY bot "botanikk">
+<!ENTITY cirkumfleks "^">
+<!ENTITY Ccaron "&#x10c;">
+<!ENTITY ccaron "&#x10d;">
+<!ENTITY ccedil "&#x00E7;">
+<!ENTITY copy "&#x00a9;">
+<!ENTITY d_e "d&nbsp;e">
+<!ENTITY d_s "d&nbsp;s">
+<!ENTITY da "dansk ">
+<!ENTITY da "dansk ">
+<!ENTITY da_e "danske ">
+<!ENTITY dat "dativ ">
+<!ENTITY Delta "&#x394;">
+<!ENTITY delta "&#x3B4;">
+<!ENTITY dial "dialektalt ">
+<!ENTITY dial "dialekter ">
+<!ENTITY dial "i dialekter ">
+<!ENTITY dim "diminutiv ">
+<!ENTITY dim-suff "diminutivssuffiks ">
+<!ENTITY dkryss "&#x266f;">
+<!ENTITY dollar "&#x24;">
+<!ENTITY dvs "det vil si ">
+<!ENTITY dvs "dvs.">
+<!ENTITY e "eldre ">
+<!ENTITY e_l "eller lignende ">
+<!ENTITY eg "egentlig ">
+<!ENTITY egl "egentlig ">
+<!ENTITY eKr "e.Kr.">
+<!ENTITY el " eller ">
+<!ENTITY el_l "el&nbsp;l">
+<!ENTITY eldre "eldre">
+<!ENTITY endash "&#x2013;">
+<!ENTITY eng " engelsk ">
+<!ENTITY eng "engelsk ">
+<!ENTITY eng_e "engelske">
+<!ENTITY ent "entall ">
+<!ENTITY Epsilon "&#x395;">
+<!ENTITY epsilon "&#x3B5;">
+<!ENTITY ev "eventuelt">
+<!ENTITY f " femininum">
+<!ENTITY f_eks "for eksempel ">
+<!ENTITY faer " f&aelig;r&oslash;ysk ">
+<!ENTITY fag "fagspr&aring;k">
+<!ENTITY fellesgerm "fellesgermansk ">
+<!ENTITY ferm "&#x1d110;">
+<!ENTITY fermate "&#x1d110;">
+<!ENTITY fermate-teikn "UKJENT TEIKN FERMATE-TEIKN">
+<!ENTITY filos "filosofi">
+<!ENTITY fKr "f.Kr.">
+<!ENTITY fl "flertall ">
+<!ENTITY flat "flat">
+<!ENTITY fls "flertalls">
+<!ENTITY forb "forbindelse ">
+<!ENTITY forb_r "forbindelser">
+<!ENTITY foreld "foreldet ">
+<!ENTITY forh "forhold ">
+<!ENTITY fork "forkorting ">
+<!ENTITY fork_a "forkorta">
+<!ENTITY fork_ing "forkorting">
+<!ENTITY forst "forsterkende ">
+<!ENTITY fr "fransk ">
+<!ENTITY fr_e "franske ">
+<!ENTITY fris " frisisk ">
+<!ENTITY fr-lat "fransk-latin ">
+<!ENTITY fys "i fysikk">
+<!ENTITY g "g">
+<!ENTITY Gamma "&#x393;">
+<!ENTITY gamma "&#x3B3;">
+<!ENTITY gda " gammeldansk ">
+<!ENTITY gen "genitiv ">
+<!ENTITY geng "gammelengelsk ">
+<!ENTITY germ "germansk ">
+<!ENTITY gfr "gammelfransk ">
+<!ENTITY gfris "gammelfrisisk ">
+<!ENTITY ggerm "gammelgermansk ">
+<!ENTITY ghty "gammelh&oslash;ytysk ">
+<!ENTITY git "gammelitaliensk ">
+<!ENTITY gj "gjennom">
+<!ENTITY gl "gammel ">
+<!ENTITY glt "gammelt ">
+<!ENTITY glat " gammellatin ">
+<!ENTITY glty "gammellavtysk ">
+<!ENTITY gnederl "gammelnederlandsk ">
+<!ENTITY gno " gammelnorsk ">
+<!ENTITY got "gotisk ">
+<!ENTITY gr "gresk">
+<!ENTITY gr_e "greske ">
+<!ENTITY gramm "grammatikk">
+<!ENTITY gram "g">
+<!ENTITY gravis "`">
+<!ENTITY gr-lat "gresk-latin ">
+<!ENTITY gruss "gammelrussisk ">
+<!ENTITY gsaks "gammelsaksisk ">
+<!ENTITY gslav "gammelslavisk ">
+<!ENTITY gsv "gammelsvensk ">
+<!ENTITY gty "gammeltysk ">
+<!ENTITY hebr "hebraisk ">
+<!ENTITY hellip "&#x2026;">
+<!ENTITY hgjen ":||">
+<!ENTITY hhanf "&#x00BB;">
+<!ENTITY hsgjen ":/">
+<!ENTITY Hsgjen "Hsgjen.">
+
+<!ENTITY hhanf "&#x00BB;">
+<!ENTITY hty "h&oslash;ytysk ">
+<!ENTITY i_anat "i anatomi">
+<!ENTITY i_astron "i astronomi">
+<!ENTITY i_bibl "i bibelspr&aring;k">
+<!ENTITY i_biokjm "i biokjemi">
+<!ENTITY i_biol "i biologi">
+<!ENTITY i_bot "i botanikk">
+<!ENTITY i_dial "i dialekt">
+<!ENTITY i_fag "i fagspr&aring;k">
+<!ENTITY i_filos "i filosofi">
+<!ENTITY i_forb "i forbindelsen">
+<!ENTITY i_forb_m "i forbindelse med">
+<!ENTITY i_fys "i fysikk">
+<!ENTITY i_fysiol "i fysiologi">
+<!ENTITY i_geol "i geologi">
+<!ENTITY i_gram "i grammatikk">
+<!ENTITY i_gramm "i grammatikk">
+<!ENTITY i_gr_myt "i gresk mytologi">
+<!ENTITY i_idr "i idrett">
+<!ENTITY i_jus "i jus">
+<!ENTITY i_kjem "i kjemi">
+<!ENTITY i_mat "i matematikk">
+<!ENTITY i_med "i medisin">
+<!ENTITY i_mil "i milit&aelig;rspr&aring;k">
+<!ENTITY i_mus "i musikk">
+<!ENTITY i_norr_myt "i norr&oslash;n mytologi">
+<!ENTITY i_myt "i mytologi">
+<!ENTITY i_pol "i politikk">
+<!ENTITY i_psyk "i psykologi">
+<!ENTITY i_rel "i religi&oslash;st spr&aring;k">
+<!ENTITY i_spraakv "i språkvitenskap">
+<!ENTITY i_tekn_s "i teknisk spr&aring;k">
+<!ENTITY i_teol "i teologi">
+<!ENTITY i_typ "i typografi">
+<!ENTITY i_zool "i zoologi">
+<!ENTITY i_oekol "i &oslash;kologi">
+
+<!ENTITY idr "idrett">
+<!ENTITY ieur "indoeuropeisk ">
+<!ENTITY imp "imperativ ">
+<!ENTITY inf "infinitiv ">
+<!ENTITY innv "innvirkning ">
+<!ENTITY interj "interjeksjon ">
+<!ENTITY intr "intransitivt">
+<!ENTITY inv "innvirkning">
+<!ENTITY Iota "&#x399;">
+<!ENTITY iota "&#x3b9;">
+<!ENTITY iron "ironisk ">
+<!ENTITY isl "islandsk ">
+<!ENTITY it "italiensk ">
+<!ENTITY it_e "italienske ">
+<!ENTITY jf "jamf&oslash;r">
+<!ENTITY jpn " japansk ">
+<!ENTITY jur "jus">
+<!ENTITY jy "jysk ">
+<!ENTITY kat "katolsk ">
+<!ENTITY kat_e "katolske ">
+<!ENTITY kelt "keltisk ">
+<!ENTITY kg "kilogram">
+<!ENTITY kjem "kjemisk">
+<!ENTITY kl "kl.">
+<!ENTITY kol "kollektivt">
+<!ENTITY koll "kollektivt ">
+<!ENTITY komp "komparativ ">
+<!ENTITY konj "konjunksjon">
+<!ENTITY langle "[">
+<!ENTITY lat "latin ">
+
+<!ENTITY lcub "{">
+<!ENTITY litt "litter&aelig;rt spr&aring;k">
+<!ENTITY lt "&amp;lt;">
+<!ENTITY lty "lavtysk ">
+<!ENTITY ldquo "&#x201c;">
+<!ENTITY m "m">
+<!ENTITY mask "maskulinum">
+<!ENTITY m_a "m&nbsp;a">
+<!ENTITY m_m "m&nbsp;m">
+<!ENTITY m_oms_t "m&nbsp;oms&nbsp;t">
+<!ENTITY malf " m&aring;lf&oslash;re ">
+<!ENTITY mat "matematikk">
+<!ENTITY mda "middeldansk ">
+<!ENTITY mdash "&#x2013;">
+<!ENTITY med "medisin">
+<!ENTITY meds "medisinsk">
+<!ENTITY meng "middelengelsk ">
+<!ENTITY mhty " middelh&oslash;ytysk ">
+<!ENTITY mil "milit&aelig;rstell">
+<!ENTITY mlat "middelalderlatin ">
+<!ENTITY mno " mellomnorsk ">
+<!ENTITY mots "motsatt">
+<!ENTITY msv " middelsvensk ">
+<!ENTITY mty " middeltysk ">
+<!ENTITY Mu "&#x39C;">
+<!ENTITY mu "&#x3BC;">
+<!ENTITY mult "&#xd7;">
+<!ENTITY Mult "Mult">
+<!ENTITY mus "musikk">
+<!ENTITY musb "&#x266d;">
+<!ENTITY myt "mytologi ">
+<!ENTITY n "n&oslash;ytrum">
+<!ENTITY natur "&#x266e;">
+<!ENTITY nbsp "&#x00A0;">
+<!ENTITY Ncaron "Ncaron">
+<!ENTITY ncaron "ncaron">
+<!ENTITY nda " nydansk ">
+<!ENTITY ndash "&#x2013;">
+<!ENTITY nederl "nederlandsk ">
+<!ENTITY neds "nedsettende">
+<!ENTITY ngr "nygresk ">
+<!ENTITY nisl "nyislandsk ">
+<!ENTITY nlat "nylatin ">
+<!ENTITY no "norsk ">
+<!ENTITY no_e "norske ">
+<!ENTITY no-da " norsk-dansk ">
+<!ENTITY nom "nominativ ">
+<!ENTITY nord "nordisk ">
+<!ENTITY nordam "nordamerikansk ">
+<!ENTITY o_norr_forh "om norr&oslash;ne forhold">
+<!ENTITY norr " norr&oslash;nt ">
+<!ENTITY norr_n " norr&oslash;n ">
+<!ENTITY norr_e "norr&oslash;ne">
+<!ENTITY nr "nummer">
+<!ENTITY nyd "nydanning ">
+<!ENTITY nygr "nygresk ">
+<!ENTITY nyl "nylaging">
+<!ENTITY nyno "nynorsk ">
+<!ENTITY o_a "og annet">
+<!ENTITY o_ae "og andre">
+<!ENTITY o_l "og lignende ">
+<!ENTITY obj- "objekts ">
+<!ENTITY odot "&#x1d110;">
+<!ENTITY oeacute "&#x01FF;">
+<!ENTITY oelig "&#x153;">
+<!ENTITY off "offentlig">
+<!ENTITY Omega "&#x3A9;">
+<!ENTITY omega "&#x3C9;">
+<!ENTITY oogon "&#x01EB;">
+<!--ENTITY oogon "<oogon/>"-->
+<!ENTITY opph "opphav">
+<!ENTITY opphl "opphavlig">
+<!ENTITY oslash "&#x00F8;">
+<!ENTITY oslash "<nosymb_oslash/>">
+<!ENTITY osv "osv.">
+<!ENTITY overf "i overf&oslash;rt betydning">
+<!ENTITY p_g_a "p&nbsp;g&nbsp;a">
+<!ENTITY part "&#x20b0;">
+<!ENTITY pass "passiv ">
+<!ENTITY pers "person">
+<!ENTITY pf "perfektum">
+<!ENTITY pf_pt "perfektum partisipp">
+<!ENTITY pga "p&aring; grunn av">
+<!ENTITY Pi "&#x3A0;">
+<!ENTITY pi "&#x3C0;">
+<!ENTITY poet_s "poetisk spr&aring;k">
+<!ENTITY pol "i politikk">
+<!ENTITY port " portugisisk ">
+<!ENTITY pound "&#x00A3;">
+<!ENTITY pr "presens ">
+<!ENTITY pr_pt "presens partisipp ">
+<!ENTITY pref "prefiks ">
+<!ENTITY prep "preposisjon ">
+<!ENTITY pres "presens ">
+<!ENTITY pret "preteritum ">
+<!ENTITY prom "&#x0089;">
+<!ENTITY prom "promille">
+<!ENTITY pron "pronomen ">
+<!ENTITY pt "partisipp ">
+<!ENTITY rangle "]">
+<!ENTITY rcub "}">
+<!ENTITY rdquo "&#x201d;">
+<!ENTITY refl "refleksivt ">
+<!ENTITY rel "religi&oslash;se">
+<!ENTITY rom "romansk ">
+<!ENTITY root "&#x221a;">
+<!ENTITY russ "russisk ">
+<!ENTITY russ_e "russiske ">
+<!ENTITY s_d "s&nbsp;d">
+<!ENTITY saerl "s&aelig;rlig ">
+<!ENTITY saks " saksisk ">
+<!ENTITY sam "samisk ">
+<!ENTITY scaron "scaron">
+<!ENTITY sengr "sengresk ">
+<!ENTITY senlat "senlatin ">
+<!ENTITY seinlat "senlatin ">
+<!ENTITY shet "shetlandsk ">
+<!ENTITY shy "&#x00AD;">
+<!ENTITY Sigma "&#x3A3;">
+<!ENTITY sigma "&#x3C3;">
+<!ENTITY sj "sjelden">
+<!ENTITY skjemt "skjemtende">
+<!ENTITY slav "slavisk ">
+<!ENTITY sm "samme ">
+<!ENTITY sm_o "samme ord ">
+<!ENTITY sm_o_s "samme ord som ">
+<!ENTITY sm_st "sm&nbsp;st">
+<!ENTITY smbl "sammenblanding ">
+<!ENTITY smh "sammenheng">
+<!ENTITY sms "sammensetning ">
+<!ENTITY sms_er "sammensetninger ">
+<!ENTITY soeram "s&oslash;ramerikansk ">
+<!ENTITY soerfr "s&oslash;rfransk ">
+<!ENTITY sp " spansk ">
+<!ENTITY sp-am "spansk-amerikansk ">
+<!ENTITY spoekt "sp&oslash;kefullt ">
+<!ENTITY spraakv "spr&aring;kvitenskap">
+<!ENTITY subj "subjekt">
+<!ENTITY subst "substantiv ">
+<!ENTITY s_subst "som substantiv ">
+<!ENTITY subst_t "substantivert ">
+<!ENTITY subst_isk "substantivisk">
+<!ENTITY suff "suffiks ">
+<!ENTITY superl "superlativ">
+<!ENTITY sv "svensk ">
+<!ENTITY sv_e "svenske ">
+<!ENTITY svar._t "svar.&nbsp;t">
+<!ENTITY t_forskj_fra "til forskjell fra ">
+<!ENTITY t_forsk_f "til forskjell fra ">
+<!ENTITY tidl "tidligere ">
+<!ENTITY tilde "~">
+<!ENTITY trema "&#x00A8;">
+<!ENTITY tr "transitivt">
+<!ENTITY trol "trolig ">
+<!ENTITY tsjekk "tsjekkisk ">
+<!ENTITY ty "tysk ">
+<!ENTITY ty_e "tyske ">
+<!ENTITY tyd "tyding">
+<!ENTITY tyrk "tyrkisk ">
+<!ENTITY ub "ubestemt ">
+<!ENTITY ubf "ubestemt form">
+<!ENTITY uboey "ub&oslash;yelig">
+<!ENTITY upers "upersonlig">
+<!ENTITY Upsilon "&#x03A5;">
+<!ENTITY upsilon "&#x03C5;">
+<!ENTITY uspes " uspesifisert ">
+<!ENTITY utenl "utenlandske ">
+<!ENTITY utr "uttrykk">
+<!ENTITY utt "uttale ">
+<!ENTITY uttr "uttrykk ">
+<!ENTITY uttr_et "uttrykket">
+<!ENTITY uttr_t "uttrykket">
+<!ENTITY v "verb ">
+<!ENTITY verb "verb ">
+<!ENTITY vbs "verbalsubstantiv ">
+<!ENTITY vgjen "||:">
+<!ENTITY vsa "ved siden av">
+<!ENTITY vha "ved hjelp av">
+<!ENTITY vhanf "&#x00AB;">
+<!ENTITY vsgjen "/:">
+<!ENTITY Vsgjen "Vsgjen.">
+<!ENTITY y_st "y&nbsp;st">
+<!ENTITY zool "zoologi">
