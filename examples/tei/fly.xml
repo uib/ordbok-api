@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<entry>
+  <form n="18039 ">
+    <rs type="hnr">5</rs>
+    <orth>fly</orth>
+    <pos>v.</pos>
+  </form>
+  <form n="18064 ">
+    <rs type="hnr">0</rs>
+    <orth>flyge</orth>
+    <pos>v.</pos>
+  </form>
+  <etym> norr.  <hi rend="italics">flj&#xFA;ga</hi> </etym>
+  <etym/>
+  <sense n="A">
+    <sense n="1">
+      <def>flytte seg i lufta ved hjelp av vinger</def>
+      <cit>
+        <quote>det fl&#xF8;y opp en flokk ryper</quote>
+      </cit>
+      <cit>
+        <quote>fuglene flyr</quote>
+      </cit>
+      <sense n="//">
+        <def>i overf&#xF8;rt betydning:</def>
+      </sense>
+      <sense>
+        <cit>
+          <quote>fuglen er, har fl&#xF8;yet</quote>
+          <usg>(etter engelsk ) den etters&#xF8;kte er, har forduftet</usg>
+        </cit>
+      </sense>
+    </sense>
+    <sense n="2">
+      <def>frakte med fly</def>
+      <def>f&#xF8;re et fly</def>
+      <def>reise med fly</def>
+      <cit>
+        <quote>fly helikopter</quote>
+      </cit>
+      <cit>
+        <quote>fly til USA</quote>
+      </cit>
+      <cit>
+        <quote>v&#xE6;re redd for &#xE5; fly</quote>
+      </cit>
+      <sense n="//">
+        <def>til forskjell fra   </def>
+        <def>som adjektiv  i presens partisipp , om  i fly</def>
+        <cit>
+          <quote>flygende personell</quote>
+        </cit>
+      </sense>
+    </sense>
+    <sense n="3">
+      <def>seile, fare gjennom lufta</def>
+      <cit>
+        <quote>prisene flyr i v&#xE6;ret</quote>
+      </cit>
+      <cit>
+        <quote>fly i lufta, i flint</quote>
+      </cit>
+      <sense n="//">
+        <def>g&#xE5; fort</def>
+        <cit>
+          <quote>d&#xF8;ra fl&#xF8;y opp</quote>
+        </cit>
+        <cit>
+          <quote>tiden flyr</quote>
+        </cit>
+      </sense>
+    </sense>
+    <sense n="4">
+      <def>, , ,  </def>
+      <cit>
+        <quote>fly med guttene</quote>
+      </cit>
+      <cit>
+        <quote>fly ute om kveldene</quote>
+      </cit>
+      <cit>
+        <quote>fly hit og dit</quote>
+      </cit>
+      <cit>
+        <quote>fly i synet p&#xE5; en</quote>
+      </cit>
+      <sense n="//">
+        <def>som adjektiv  i presens partisipp , om  i fly</def>
+        <cit>
+          <quote>mange tanker fl&#xF8;y gjennom hodet mitt</quote>
+        </cit>
+      </sense>
+      <sense>
+        <cit>
+          <quote>flyende start</quote>
+          <usg> </usg>
+        </cit>
+      </sense>
+    </sense>
+  </sense>
+</entry>
