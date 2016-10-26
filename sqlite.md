@@ -34,7 +34,7 @@ value can be used by multiple entries.
 
 Field|Type|Comment
 -----|----|---------
-`id` | int pk | Each lemma has it's own key
+`id` | int pk | Each lemma has its own key
 `orth`| varchar | The spelling of the word
 `entry_id`|fk | The corresponding entry
 
