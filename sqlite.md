@@ -6,7 +6,7 @@ tables.
 
 The supporting tables should make it easy to locate articles by searching for
 words in various forms.  The `lemma`, `form` and `searchtext` tables can be
-deleted if not useful without loosing information as this information can also
+deleted without loosing information, as this information can also
 be obtained from the `entry.xjtei` data.
 
 ## Database schema
