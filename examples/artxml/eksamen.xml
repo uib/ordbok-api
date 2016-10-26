@@ -3,7 +3,10 @@
 <artiklar ordbok="NOB">
   <artikkelbolk>
     <avsnitt>
-      <artikkel artid="11934" artikkeltype="NORMALARTIKKEL" oppslagsform="eksamen" sortform="eksamen" sortrekke="a" status="Retur redaktør" statussignatur="CEO" statusdato="06.10.2016" redaktor="CEO" papir2014="J" avsnitt2014="J">
+        <artikkel artid="11934" artikkeltype="NORMALARTIKKEL" oppslagsform="eksamen"
+            sortform="eksamen" sortrekke="a"
+            status="Retur redaktør" statussignatur="CEO" statusdato="06.10.2016" redaktor="CEO"
+            papir2014="J" avsnitt2014="J">
         <oppslagliste>
           <oppslag id="13753" nr="0" pos="1">
             <homografnummer>0</homografnummer>
@@ -25,7 +28,8 @@
           </hpetymspraakliste>
         </hakeparentes>
         <tydingsbolk>
-          <tyding tydingid="13885" tydingforelderid="988372" tydingartikkelid="11934" tydingtype="NORMALTYDING" nivaa="1" pos="1">
+          <tyding tydingid="13885" tydingforelderid="988372" tydingartikkelid="11934"
+               tydingtype="NORMALTYDING" nivaa="1" pos="1">
             <tydingdefnr>A</tydingdefnr>
             <tydingsvariantliste>
               <tydingsvariant tydid="2277507" pos="1">
