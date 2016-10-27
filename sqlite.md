@@ -36,7 +36,7 @@ value can be used by other entries as well.
 Field|Type|Comment
 -----|----|---------
 `id` | int pk | Each lemma has its own key
-`orth`| varchar | The spelling of the word
+`orth`| text | The spelling of the word
 `entry_id`|fk | The corresponding entry
 
 ### `pos`
@@ -47,7 +47,7 @@ word belongs to; like verb, noun, adjective, etc.
 Field|Type|Comment
 -----|----|---------
 `id` | enum('v', 'n',...) | The class of word (v=verb, n=noun,...)
-`name`| varchar | 'Verb', 'Substantiv', 'Adjektiv',...
+`name`| text | 'Verb', 'Substantiv', 'Adjektiv',...
 `lang`| enum('nb', 'nn') | The language of `name`
 
 ### `gram`
@@ -63,7 +63,7 @@ takes.  For instance nouns in Norwegian has the following 4 forms:
 Field|Type|Comment
 -----|----|---------
 `id` | id | Just something unique
-`name`| varchar | String like "Entall; Ubestemt form"
+`name`| text | String like "Entall; Ubestemt form"
 `order`| int | The natural order for the given _pos_ and _lang_
 `pos_id` | fk | The _pos_ this applies to
 `lang` | enum('nb', 'nn') | The language of _name_
@@ -86,7 +86,7 @@ Field|Type|Comment
 `lemma_id` | fk | Combined key
 `gram_id` | fk | Combined key
 `paradigm` | int | Combined key
-`orth` | varchar | text
+`orth` | text | The spelling of the form
 
 ### `searchtext`
 
