@@ -78,7 +78,7 @@ Description of the elements of the entry object:
   language the described word belongs to.  The descriptions follow the
   language.  The code is `nn` for Nynorsk and `nb` for Bokmål.
 
-* `lemmas`  The base form of the word.  Note that the same lemma kan be used
+* `lemmas`  The base form of the word.  Note that the same lemma can be used
   for different entries and that an entry can be indexed by
   multiple lemmas (when there are multiple ways to write the same word).  Ref
   [wikipedia](https://en.wikipedia.org/wiki/Lemma_(morphology)).  The field is
@@ -88,13 +88,13 @@ Description of the elements of the entry object:
 * `pos` is the word class the word belongs to.  It's a string like 'v=verb',
   'n=noun', 'a=adjective', 'av=adverb',...
 
-* `pos2` the the expanded word class code.  Given this code it's
-  possible to algorithmically derive the forms from the _lemma`.  It's a
+* `pos2` the expanded word class code.  Given this code it's
+  possible to algorithmically derive the forms from the lemma.  It's a
   string like 'n1', 'n2', 'v1', 'v2', 'm1'
 
 * `forms` lists how this word is written in its different forms.  The
   interpretation of these lists depend on the `pos`.  For instance for _nouns_
-  the inner array consist of 4 elements (singular/plural × ubestemt/bestemt
+  the inner array consist of 4 inflections (singular/plural × indefinitive/definitive
   form).
 
 * `etym` describes where where the word came from. Ref [wikipedia](https://en.wikipedia.org/wiki/Etymology)
@@ -105,10 +105,10 @@ Description of the elements of the entry object:
 
 * `etym.cits` describes the origins of the word from literature
 
-* `senses` describes the meaning of the word and and examples of use.  These
+* `senses` describes the meaning of the word and examples of use.  These
   descriptions are grouped together.
 
-* `senses[].n`  This is the label for this group of sense statements.  Can be supressed when there is only one.
+* `senses[].n`  This is the label for this group of sense statements.  Display can be suppressed when there is only one sense.
 
 * `senses[].defs`  Array containing definitions.  Each definition is an object with the attribute `def` containing the text of the definition.
 
