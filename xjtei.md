@@ -4,7 +4,7 @@ This document describe the JSON schema that is used to describe entries from
 the nb+nn dictionary.  The format is inspired by [TEI Dictionary
 XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DI.html).
 
-The dictionary is a collection of _entries_ that have the following form:
+The dictionary is a collection of _entries_ that have the following structure:
 
     {
         "id": 99999,
