@@ -43,7 +43,7 @@ Field|Type|Comment
 
 ### `pos`
 
-POS stands for 'Part of Speech' and is the gramatical class that the
+POS stands for 'Part of Speech' and is the grammatical class that the
 word belongs to; like verb, noun, adjective, etc.
 
 Field|Type|Comment
@@ -54,7 +54,7 @@ Field|Type|Comment
 
 ### `gram`
 
-This expresses the gramatical forms that words of the referenced _pos_
+This expresses the grammatical forms that words of the referenced _pos_
 takes.  For instance nouns in Norwegian has the following 4 forms:
 
 * "Entall; Ubestemt form"
@@ -70,7 +70,7 @@ Field|Type|Comment
 `pos_id` | fk | The _pos_ this applies to
 `lang` | enum('nb', 'nn') | The language of _name_
 
-If `form.name` contains ";" it denotes an oportunity to join columns together
+If `form.name` contains ";" it denotes an opportunity to join columns together
 names with the same prefix.  For instance the 4 forms above can be presented
 like this:
 ![table of forms](img/gram.png)
@@ -79,7 +79,7 @@ like this:
 ### `form`
 
 This encodes the how a specific _lemma_ of a word is to be spelled in its
-various gramatical forms.  There can be multiple systems that applies for a
+various grammatical forms.  There can be multiple systems that applies for a
 single word which is expressed by the _paradim_ key.  A separate row will be
 filled in for all variations of _gram_ given the word's _pos_.
 
