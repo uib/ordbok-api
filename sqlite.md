@@ -21,7 +21,7 @@ single "word".
 Field|Type|Comment
 -----|----|---------
 `id` | int pk | Every entry has a numeric key
-`lang` | enum('nb', 'nn') | Bokmål or Nynorsk [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_code)
+`lang` | enum('nb', 'nn') | Bokmål or Nynorsk [ISO 639-1 code](https://en.wikipedia.org/wiki/ISO_639-1)
 `pos_id`| fk | What kind of word is this (verb, noun,...)
 `tei` | xml null | The dictionary entry in TEI format
 `xjtei` | json | The dictionary entry in [XJ-TEI format](xjtei.md)
