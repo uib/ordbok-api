@@ -9,6 +9,8 @@ words in various forms.  The `lemma`, `form` and `searchtext` tables can be
 deleted without loosing information, as this information can also
 be obtained from the `entry.xjtei` structure.
 
+All text strings in the database use the UTF-8 encoding.
+
 ## Database schema
 
 ![ER-diagram](img/er.png)
