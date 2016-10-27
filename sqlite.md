@@ -7,16 +7,16 @@ tables.
 The supporting tables should make it easy to locate articles by searching for
 words in various forms.  The `lemma`, `form` and `searchtext` tables can be
 deleted without loosing information, as this information can also
-be obtained from the `entry.xjtei` data.
+be obtained from the `entry.xjtei` structure.
 
 ## Database schema
+
+![ER-diagram](img/er.png)
 
 ### `entry`
 
 This represents a single directory entry.  This is an article describing a
-single "word".  Note that the spelling of the lemma of an entry isn't unique.
-There can be multiple entries for the same sequence of letters, as these are
-denoted as different words.
+single "word".
 
 Field|Type|Comment
 -----|----|---------
@@ -31,7 +31,7 @@ Field|Type|Comment
 The base form of the word described by a dictionary entry.
 Ref [wikipedia](https://en.wikipedia.org/wiki/Lemma_(morphology)).
 A single article can have multiple lemmas, and the same `lemma.orth`
-value can be used by multiple entries.
+value can be used by other entries as well.
 
 Field|Type|Comment
 -----|----|---------
@@ -55,10 +55,10 @@ Field|Type|Comment
 This expresses the gramatical forms that words of the referenced _pos_
 takes.  For instance nouns in Norwegian has the following 4 forms:
 
-* Entall; Ubestemt form
-* Entall; Bestemt form
-* Flertall; Ubestemt form
-* Flertall; Bestemt form
+* "Entall; Ubestemt form"
+* "Entall; Bestemt form"
+* "Flertall; Ubestemt form"
+* "Flertall; Bestemt form"
 
 Field|Type|Comment
 -----|----|---------
@@ -68,12 +68,18 @@ Field|Type|Comment
 `pos_id` | fk | The _pos_ this applies to
 `lang` | enum('nb', 'nn') | The language of _name_
 
+If `form.name` contains ";" it denotes an oportunity to join columns together
+names with the same prefix.  For instance the 4 forms above can be presented
+like this:
+![table of forms](img/gram.png)
+
+
 ### `form`
 
 This encodes the how a specific _lemma_ of a word is to be spelled in its
 various gramatical forms.  There can be multiple systems that applies for a
-single word which is expressed by the _paradim_ key.  The table will be filled in
-for all variations of _gram_ given the word's _pos_.
+single word which is expressed by the _paradim_ key.  A separate row will be
+filled in for all variations of _gram_ given the word's _pos_.
 
 Field|Type|Comment
 -----|----|---------
@@ -84,12 +90,12 @@ Field|Type|Comment
 
 ### `searchtext`
 
-This is contains the unstructured text found in a dictionary entry.
-It can be used to implement full text search for dictionary entries
+This is contains the concatenation of the plain text found in a dictionary
+entry.  It can be used to implement full text search for dictionary entries
 that mention a specific word in its description.
 
 Field|Type|Comment
 -----|----|---------
-`entry_id` | pk fk | The dictionary entry
-`text` | text | Long string of words
+`entry_id` | pk fk | The dictionary entry text is extracted from
+`text` | text | lemma + forms + etym + defs + cits
 
