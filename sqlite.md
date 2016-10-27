@@ -15,7 +15,8 @@ be obtained from the `entry.xjtei` data.
 
 This represents a single directory entry.  This is an article describing a
 single "word".  Note that the spelling of the lemma of an entry isn't unique.
-There can be multiple entries for the same sequence of letters.
+There can be multiple entries for the same sequence of letters, as these are
+denoted as different words.
 
 Field|Type|Comment
 -----|----|---------
@@ -40,7 +41,8 @@ Field|Type|Comment
 
 ### `pos`
 
-POS = Part of Speech
+POS stands for 'Part of Speech' and is the gramatical class that the
+word belongs to; like verb, noun, adjective, etc.
 
 Field|Type|Comment
 -----|----|---------
@@ -50,15 +52,28 @@ Field|Type|Comment
 
 ### `gram`
 
+This expresses the gramatical forms that words of the referenced _pos_
+takes.  For instance nouns in Norwegian has the following 4 forms:
+
+* Entall; Ubestemt form
+* Entall; Bestemt form
+* Flertall; Ubestemt form
+* Flertall; Bestemt form
+
 Field|Type|Comment
 -----|----|---------
-`id` | id
-`name`| varchar
-`order`| int
-`pos_id` | fk
-`lang` | enum('nb', 'nn')
+`id` | id | Just something unique
+`name`| varchar | String like "Entall; Ubestemt form"
+`order`| int | The natural order for the given _pos_ and _lang_
+`pos_id` | fk | The _pos_ this applies to
+`lang` | enum('nb', 'nn') | The language of _name_
 
-### `form` (fullform)
+### `form`
+
+This encodes the how a specific _lemma_ of a word is to be spelled in its
+various gramatical forms.  There can be multiple systems that applies for a
+single word which is expressed by the _paradim_ key.  The table will be filled in
+for all variations of _gram_ given the word's _pos_.
 
 Field|Type|Comment
 -----|----|---------
