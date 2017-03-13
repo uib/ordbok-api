@@ -1,18 +1,35 @@
-#API TABLES
+# Dictionary SQLite database format
+
+This document describes the SQLite export format of the "Bokmålsordboka og
+Nynorskordboka" dictionary.  This is a database file containing a collection of
+dictionary entries and supporting indexes.
+
+The supporting tables should make it easy to locate entries by searching for
+words in various forms.  The `headword` and `inflection` views/tables can be
+deleted without loosing information, as this information can also be obtained
+from the `entry.entry` structure.
+
+All text strings in the database use the UTF-8 encoding.
+
+## Tables
+
 The api views are based on two set of tables, one set for Nynorsk and one set for Bokmål  
 Table names are post-fixed with: 0=`nb`,1=`nn`  
 It is recommended to use the tables directly for better performance  
 
-#API VIEWS
-The column lang is created by the views  
+## Views
 
-##entry
+The column `lang` is created by the views  
+
+### entry
+
 col       |desc
 ----------|---------
 id        |numeric id 
 entry     |json object representing one entry
 
-##headword
+### headword
+
 col       |desc
 ----------|---------
 lang      |'nb': 'Bokmål','nn': 'Nynorsk'
@@ -22,7 +39,7 @@ cnt       |length of orth
 entries   |list of entries separated with commas
 
 
-###Ordbanken - Ordboka
+#### Ordbanken - Ordboka
 Orbanken contains the basic words of Norwegian  
 Some words and idioms are added in ordboka e.g `finne på` and `direkten`  
 In most cases norwegianified versions of words are present in ordboka, e.g. `kafe` and `kafè`  
@@ -30,7 +47,8 @@ Missing norwegianified/lowercase versions of words are generated after extractio
 from the source database e.g `señora` -> `senora` and `NRK` -> `nrk`
 
 
-###headword type
+#### headword type
+
 type      |desc
 ----------|---------
 B         |Base words from ordbanken with entries in ordboka
@@ -38,7 +56,9 @@ U         |Base words from ordbanken without entries in ordboka - undefined word
 D         |Dummy - lowercase/transformed versions of headwords not already defined
 I         |Ididoms and expressions added in ordboka
 
-##inflection
+
+### inflection
+
 col       |desc
 ----------|---------
 lang      |'nb': 'Bokmål','nn': 'Nynorsk'
@@ -46,6 +66,6 @@ orth      |inflected forms of headword
 cnt       |length of orth
 headwords |list of headwords separated with `|`
 
-###row examples
+#### examples
     lang='nb',orth='vakt',cnt=4,headwords='vak|vake|vakte|vekke'
     lang='nb',orth='gikk',cnt=4,headwords='gå'
