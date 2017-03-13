@@ -38,7 +38,7 @@ U         |Base words from ordbanken without entries in ordboka - undefined word
 D         |Dummy - lowercase/transformed versions of headwords not already defined
 I         |Ididoms and expressions added in ordboka
 
-##Inflection
+##inflection
 col       |desc
 ----------|---------
 lang      |'nb': 'Bokmål','nn': 'Nynorsk'
