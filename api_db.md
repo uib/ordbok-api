@@ -32,20 +32,20 @@ The column `lang` is created by the views
 
 ### entry
 
-col       |desc
-----------|---------
-id        |numeric id 
-entry     |json object representing one entry
+col       |type|desc
+----------|----|---------
+id        |unique int| entry identifier
+entry     |json| object representing one dictionary article
 
 ### headword
 
-col       |desc
-----------|---------
-lang      |'nb': 'Bokmål','nn': 'Nynorsk'
-orth      |headword
-t         |type
-cnt       |length of orth
-entries   |list of entries separated with commas
+col       |type|desc
+----------|----|-----
+lang      |text| 'nb': 'Bokmål','nn': 'Nynorsk'
+orth      |unique text|spelling of the headword
+t         |text|type
+cnt       |int |length of orth
+entries   |text|list of entries separated with commas
 
 
 #### Ordbanken - Ordboka
@@ -68,12 +68,12 @@ I         |Ididoms and expressions added in ordboka
 
 ### inflection
 
-col       |desc
+col       |type|desc
 ----------|---------
-lang      |'nb': 'Bokmål','nn': 'Nynorsk'
-orth      |inflected forms of headword
-cnt       |length of orth
-headwords |list of headwords separated with `|`
+lang      |text|'nb': 'Bokmål','nn': 'Nynorsk'
+orth      |uniquq text|inflected forms of headword
+cnt       |int|length of orth
+headwords |text|list of headwords separated with `|`
 
 #### examples
     lang='nb',orth='vakt',cnt=4,headwords='vak|vake|vakte|vekke'
