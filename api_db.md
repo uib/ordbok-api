@@ -22,9 +22,9 @@ developed for.
 
 ## Tables
 
-The api views are based on two set of tables, one set for Nynorsk and one set for Bokmål  
-Table names are post-fixed with: 0=`nb`,1=`nn`  
-It is recommended to use the tables directly for better performance  
+The api views are based on two set of tables, one set for Bokmål and one set for Nynorsk.
+Table names are suffixed with "0" for the Bokmål-tables and "1" for the Nynorsk-tables.
+It is recommended to use the tables directly for better performance.
 
 ## Views
 
