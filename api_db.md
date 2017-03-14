@@ -6,10 +6,19 @@ dictionary entries and supporting indexes.
 
 The supporting tables should make it easy to locate entries by searching for
 words in various forms.  The `headword` and `inflection` views/tables can be
-deleted without loosing information, as this information can also be obtained
+deleted without loosing information, as this information can also be extracted
 from the `entry.entry` structure.
 
 All text strings in the database use the UTF-8 encoding.
+
+The following pragma declares this version of the database:
+
+* `pragma application_id = 0x6e626e6e`
+* `pragma user_version = 1`
+
+Non-backwards compatible revisions of this specification will increment the `user_version`.
+An application should not try to load data when `user_version` is higher than what it was
+developed for.
 
 ## Tables
 
