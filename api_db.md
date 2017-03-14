@@ -42,10 +42,12 @@ entry     |json| object representing one dictionary article
 col       |type|desc
 ----------|----|-----
 lang      |text| 'nb': 'Bokmål','nn': 'Nynorsk'
-orth      |unique text|spelling of the headword
+orth      |text|spelling of the headword
 t         |text|type
 cnt       |int |length of orth
 entries   |text|list of entries separated with commas
+
+The `(lang, orth)` tuple is unique.
 
 
 #### Ordbanken - Ordboka
@@ -71,9 +73,11 @@ I         |Ididoms and expressions added in ordboka
 col       |type|desc
 ----------|---------
 lang      |text|'nb': 'Bokmål','nn': 'Nynorsk'
-orth      |uniquq text|inflected forms of headword
+orth      |text|inflected forms of headword
 cnt       |int|length of orth
 headwords |text|list of headwords separated with `|`
+
+The `(lang, orth)` tuple is unique.
 
 #### examples
     lang='nb',orth='vakt',cnt=4,headwords='vak|vake|vakte|vekke'
