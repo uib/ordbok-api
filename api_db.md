@@ -71,7 +71,7 @@ I         |Ididoms and expressions added in ordboka
 ### inflection
 
 col       |type|desc
-----------|---------
+----------|----|----
 lang      |text|'nb': 'Bokmål','nn': 'Nynorsk'
 orth      |text|inflected forms of headword
 cnt       |int|length of orth
