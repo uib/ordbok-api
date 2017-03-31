@@ -19,7 +19,7 @@ intro   |.
 lang    |language
 n       |sense number
 phon    |phonetics
-pos     |part of speech - main
+pos_tid |part of speech text-id
 posl    |part of speech - list of subcategories
 quote   |quotation
 ref     |reference
@@ -33,37 +33,36 @@ mm-,ms-,sm-,
 
 c1 |c2
 ---|----
-m=main entry |m=main definition       
-s=sub entry  |s=sub definition  
+m=main entry |m=main definition
+s=sub entry  |s=sub definition
 
 ### example - løp
-<pre>
+```
 etym.samans.0.text            i sammensetninger  som gjelder ulike idretter:
 etym.samans.1.ref             <a href="{url}&sok=kvalifiseringsløp#329850">kvalifiseringsløp</a>
-</pre>
+```
 
 ### example - filere
-<pre>
+```
 senses.2.defs.0.mm-context    mus.</pre>
-</pre>
+```
 
 ### example - artium
-<pre>
+```
 etym.phons.0.phon             artsium
-</pre>
+```
 
 ### complete example - stas
-<pre>
-norsk-lang                    nb
+```
 eid                           567290
+norsk-lang                    nb
 grams
 grams.0.headword              stas
-grams.0.pos                   substantiv
+grams.0.pos_tid               200
 grams.0.posl                  m1
-grams.0.forms
-grams.0.forms.0.th            pos|ent be|fl ub|fl be
-grams.0.forms.1.td            m1|stasen|staser|stasene
-grams.0.forms.2.te            1
+grams.0.forms_tbl.hid         20
+grams.0.forms_tbl.rows
+grams.0.forms_tbl.rows.0      stas|stasen|staser|stasene
 etym.langs
 etym.langs.0.intro            av
 etym.langs.0.lang             middelalderlatin
@@ -92,9 +91,8 @@ senses.1.defs.1.mm-quote      barna synes det er <ordform fk="s-">stas</ordform>
 senses.1.defs.2.ms-def        <a href="{url}&sok=glede#201980">glede(I)</a>
 senses.1.defs.3.ms-quote      gjøre <ordform fk="s-">stas</ordform> på en
 senses.1.defs.3.ms-usg        vise stor oppmerksomhet, hylle
-senses.1.defs.4.ms-quote      det ble stor <ordform fk="s-">stas</ordform> da de traff hverandre igjen
-</pre>
-
+senses.1.defs.4.ms-quote      det ble stor <ordform fk="s-">stas</ordform> da de traff hverandre igjen</pre>
+```
 
 
 
