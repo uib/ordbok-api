@@ -36,8 +36,8 @@ hid|0     |1       |2       |3       |4       |5      |6      |7     |8      |9 
 17|pos    |comp    |super
 18|pos m  |pos f   |pos n   |pos b   |pos plur|comp   |super  |super b
 19|s m    |s f     |s n     |plur
-20|nom    |b       |plur    |plur b
-21|nom    |b       |plur    |plur b
+20|s nom  |s b     |plur    |plur b
+21|s nom  |s b     |plur    |plur b
 22|nom    |obj
 
 ### Head tids
@@ -53,8 +53,8 @@ hid|0     |1       |2       |3       |4       |5      |6      |7     |8      |9 
 17|25|26|27
 18|25,11|25,12|25,14|25,10|25,16|26|27|27,10
 19|15,11|15,12|15,14|16
-20|17|10|16|16,10
-21|17|10|16|16,10
+20|15,17|15,10|16|16,10
+21|15,17|15,10|16|16,10
 22|17|29
 
 ### Tids
