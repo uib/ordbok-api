@@ -1,0 +1,46 @@
+0|L57527|la A49460|l:hg 5|lb B100|lx H57523P040
+0|L57528|la A49460|l:hg 2|lb B100|lx H57528P010|lx H57528P011|lx H57528P030
+0|H57523P040|x:m rår:rås:rådde:rådd:rådd:rådd:rådde:rådde:rående:rå|xb B100
+0|H57528P010|x:m råder:rådes:rådet:rådet:rådet:rådet:rådete:rådete:rådende:råd|xb B100
+0|H57528P011|x:m råder:rådes:rådet:rådet:rådet:rådet:rådede:rådede:rådende:råd|xb B100
+0|H57528P030|x:m råder:rådes:rådde:rådd:rådd:rådd:rådde:rådde:rådende:råd|xb B100
+0|A49460|a 49460|aes ES244163|ao O1A49460|ao O2A49460|ao O3A49460
+0|ES244163|esk K43|ess:go ráða
+0|K43|k: norrønt
+0|O1A49460|o:n 1|od D59896|od D59897|ou D59896N1
+0|D59896|dtnn T2413094|dtnn T44837|dtnn T44836|dtnn T44835|dtnn T44834|dtnn T44833
+0|T2413094|ri RI54026|tm: , |ri RI54027
+0|RI54026|ra A5529
+0|L6231|la A5529|l:hg 0|lb B100|lx H6231P022
+0|H6231|h bestemme|hl L6231
+0|RI54027|ra A23404
+0|L27334|la A23404|l:hg 0|lb B100|lx H27334P001|lx H27334P010|lx H27334P011
+0|H27334|h herske|hl L27334
+0|T44837|tc: rå grunnen alene
+0|T44836|tc: rå over store rikdommer, landområder
+0|T44835|tc: ikke kunne rå for noe
+0|T44834|tc: her er det jeg som rår
+0|T44833|tc: rå seg selv
+0|D59897|dtnu T2413093|dtnu T44840|dtnu T44839
+0|T2413093|tm: herske, være utbredt
+0|T44840|tc: overalt rådde fortvilelse
+0|T44839|tc: her inne råder stillheten
+0|D59896N1|ua A104716
+0|L109929|la A104716|l:hg 0
+0|H109929|h rå med|hl L109929
+0|A104716|a 104716|ao O1A104716
+0|O1A104716|od D2449470
+0|D2449470|dtun T2445617
+0|T2445617|tm: makte, holde styr på
+0|O2A49460|o:n 2|od D59898
+0|D59898|dtnn T2413095|dtnn T44841
+0|T2413095|tm: gi råd
+0|T44841|tc: rå fra, til noe
+0|O3A49460|o:n 3|ou D59899N1
+0|D59899N1|ua A104717
+0|L109930|la A104717|l:hg 0
+0|H109930|h rå bot på|hl L109930
+0|A104717|a 104717|ao O1A104717
+0|O1A104717|od D2449472
+0|D2449472|dtun T2445618
+0|T2445618|tm: rette på, skaffe til veie

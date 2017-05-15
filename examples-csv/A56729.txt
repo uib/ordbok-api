@@ -1,0 +1,61 @@
+0|L66235|la A56729|l:hg 0|lb B200|lx H66235P700
+0|H66235P700|x:m stasen:staser:stasene|xb B200
+0|A56729|a 56729|aes ES246067|aes ES246068|re RE127844|ael EL29241|ao O1A56729|ao O2A56729
+0|ES246067|esi: av|esk K33|ess:go statio|ess:  'stans under prosesjon' og |essq Q108|ess:  av
+0|K33|k: middelalderlatin
+0|Q108|q: genitiv |q gen
+0|ES246068|esiq Q65|esk K4|ess:go stat|ess:  'stas, prakt'
+0|Q65|q: eldre |q e
+0|K4|k: dansk
+0|RE127844|riq Q38|ri:  med|ra A56732
+0|Q38|q: beslektet |q besl
+0|L66238|la A56732|l:hg 0|lb B200|lx H66238P700
+0|H66238|h stasjon|hl L66238
+0|EL29241|eliq Q351|eli:  sammenfall av |eliq Q209|eli:  |eli:go stacie|eli:  '(kirkelig) prosesjon, prakt'
+0|Q351|q: trolig |q trol
+0|Q209|q: lavtysk |q lty
+0|O1A56729|o:n 1|od D69253|ou D69253N1|ou D69253N2|ou D69253N3
+0|D69253|dtnn T2422338|dtnn T51236
+0|T2422338|ri RI57518|tm: , |ri RI57519
+0|RI57518|ra A46986
+0|L54755|la A46986|l:hg 2|lb B200|lx H54754P700
+0|H54754|h pynt|hl L54754|hl L54755
+0|RI57519|ra A45875
+0|L53586|la A45875|l:hg 0|lb B200|lx H53586P700|lx H53586P900
+0|H53586|h prakt|hl L53586
+0|T51236|tc: være kledd i sin fineste |tc:go stas
+0|D69253N1|ua A105438
+0|L110651|la A105438|l:hg 0
+0|H110651|h hele stasen|hl L110651
+0|A105438|a 105438|ao O1A105438
+0|O1A105438|od D2450914
+0|D2450914|dtun T2446340
+0|T2446340|tm: alt sammen
+0|D69253N2|ua A105439
+0|L110652|la A105439|l:hg 0
+0|H110652|h på stas|hl L110652
+0|A105439|a 105439|ao O1A105439
+0|O1A105439|od D2450916
+0|D2450916|dtun T2446341
+0|T2446341|tm: (gå, sitte) pyntet uten å gjøre nyttig arbeid, ha gode dager
+0|D69253N3|ua A105440
+0|L110653|la A105440|l:hg 0
+0|H110653|h til stas|hl L110653
+0|A105440|a 105440|ao O1A105440
+0|O1A105440|od D2450918
+0|D2450918|dtun T2446342
+0|T2446342|tm: til pynt
+0|O2A56729|o:n 2|od D69254|od D69255
+0|D69254|dtnn T2422339|dtnn T51240
+0|T2422339|ri RI57520|tm: , festlighet
+0|RI57520|ra A39122
+0|L45936|la A39122|l:hg 1|lb B200|lx H45936P700|lx H45936P900
+0|H45936|h moro|hl L45936|hl L45937
+0|T51240|tc: barna synes det er |tc:go stas|tc:  med julen
+0|D69255|dtnu T2422337|dtnu T51242|dtnu T51241
+0|T2422337|ri RI57517
+0|RI57517|ra A20198
+0|L23372|la A20198|l:hg 1|lb B200|lx H23372P702|lx H23372P902
+0|H23372|h glede|hl L23372|hl L23373
+0|T51242|tc: gjøre |tc:go stas|tc:  på en|tf: vise stor oppmerksomhet, hylle
+0|T51241|tc: det ble stor |tc:go stas|tc:  da de traff hverandre igjen

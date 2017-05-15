@@ -1,0 +1,14 @@
+0|L57524|la A49457|l:hg 2|lb B200|lx H57523P700|lx H57523P900
+0|H57523P700|x:m råen:råer:råene|xb B200
+0|H57523P900|x:m råa:råer:råene|xb B200
+0|A49457|a 49457|aes ES244165|ao O1A49457
+0|ES244165|esk K43|ess:go rá
+0|K43|k: norrønt
+0|O1A49457|od D59881
+0|D59881|dtnn T2413077|dtnn T2413078
+0|T2413077|tm: rådyrhunn
+0|T2413078|rt RT54014
+0|RT54014|riq Q189|ra A49464
+0|Q189|q: jamfør|q jf
+0|L57533|la A49464|l:hg 0|lb B200|lx H57533P700
+0|H57533|h råbukk|hl L57533

@@ -1,0 +1,15 @@
+0|L57523|la A49456|l:hg 1|lb B200|lx H57523P76I|lx H57523P946
+0|H57523P76I|x:m råen:rær:rærne|xb B200
+0|H57523P946|x:m råa:rær:rærne|xb B200
+0|A49456|a 49456|aes ES244166|ao O1A49456|ao O2A49456
+0|ES244166|esk K43|ess:go hrá
+0|K43|k: norrønt
+0|O1A49456|o:n 1|od D59879
+0|D59879|dtnn T2413075
+0|T2413075|ri RI54013
+0|RI54013|ra A56682
+0|L66183|la A56682|l:hg 0|lb B200|lx H66183P766|lx H66183P951
+0|H66183|h stang|hl L66183
+0|O2A49456|o:n 2|od D59880
+0|D59880|dtnn T2413076
+0|T2413076|tm: rund bom som sitter på tvers av mast på seilskip og bærer seilene
