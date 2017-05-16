@@ -1,20 +1,24 @@
-0|L57527|la A49460|l:hg 5|lb B100|lx H57523P040
-0|L57528|la A49460|l:hg 2|lb B100|lx H57528P010|lx H57528P011|lx H57528P030
-0|H57523P040|x:m rår:rås:rådde:rådd:rådd:rådd:rådde:rådde:rående:rå|xb B100
-0|H57528P010|x:m råder:rådes:rådet:rådet:rådet:rådet:rådete:rådete:rådende:råd|xb B100
-0|H57528P011|x:m råder:rådes:rådet:rådet:rådet:rådet:rådede:rådede:rådende:råd|xb B100
-0|H57528P030|x:m råder:rådes:rådde:rådd:rådd:rådd:rådde:rådde:rådende:råd|xb B100
+0|L57527|la A49460|l:hg 5|lx H57523P040
+0|L57528|la A49460|l:hg 2|lx H57528P010|lx H57528P011|lx H57528P030
+0|H57523P040|xp P040|x:m rår:rås:rådde:rådd:rådd:rådd:rådde:rådde:rående:rå
+0|P040|pbid 100|p:pg v4
+0|H57528P010|xp P010|x:m råder:rådes:rådet:rådet:rådet:rådet:rådete:rådete:rådende:råd
+0|P010|pbid 100|p:pg v1
+0|H57528P011|xp P011|x:m råder:rådes:rådet:rådet:rådet:rådet:rådede:rådede:rådende:råd
+0|P011|pbid 100|p:pg v1
+0|H57528P030|xp P030|x:m råder:rådes:rådde:rådd:rådd:rådd:rådde:rådde:rådende:råd
+0|P030|pbid 100|p:pg v3
 0|A49460|a 49460|aes ES244163|ao O1A49460|ao O2A49460|ao O3A49460
 0|ES244163|esk K43|ess:go ráða
 0|K43|k: norrønt
 0|O1A49460|o:n 1|od D59896|od D59897|ou D59896N1
 0|D59896|dtnn T2413094|dtnn T44837|dtnn T44836|dtnn T44835|dtnn T44834|dtnn T44833
-0|T2413094|ri RI54026|tm: , |ri RI54027
-0|RI54026|ra A5529
-0|L6231|la A5529|l:hg 0|lb B100|lx H6231P022
+0|T2413094|rn RN54026|tm: , |rn RN54027
+0|RN54026|ra A5529
+0|L6231|la A5529|l:hg 0|lx H6231P022
 0|H6231|h bestemme|hl L6231
-0|RI54027|ra A23404
-0|L27334|la A23404|l:hg 0|lb B100|lx H27334P001|lx H27334P010|lx H27334P011
+0|RN54027|ra A23404
+0|L27334|la A23404|l:hg 0|lx H27334P001|lx H27334P010|lx H27334P011
 0|H27334|h herske|hl L27334
 0|T44837|tc: rå grunnen alene
 0|T44836|tc: rå over store rikdommer, landområder

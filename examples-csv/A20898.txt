@@ -1,0 +1,22 @@
+0|L24193|la A20898|l:hg 2|lx H24192P518
+0|H24192P518|xp P518|x:m greske:greske:gresk:gresk:gresk:gresk
+0|P518|pbid 160|p:pg a4
+0|A20898|a 20898|aes ES235240|re RE122670|ao O1A20898
+0|ES235240|esk K43|ess:go grikkskr
+0|K43|k: norrønt
+0|RE122670|ri: se|ra A20840
+0|L24125|la A20840|l:hg 0|lx H24125P712
+0|H24125|h greker|hl L24125
+0|O1A20898|od D24780
+0|D24780|dtnn T2377460|dtnn T2377461|dtnn T20336|dtnn T20335|dtnn T20334|dtnn T20333|dtnn T20332
+0|T2377460|rt RT41189
+0|RT41189|riq Q189|ra A23024
+0|Q189|q: jamfør|q jf
+0|L26871|la A23024|l:hg 0|lx H26871P518
+0|H26871|h hellensk|hl L26871
+0|T2377461|tm: som gjelder Hellas og grekere
+0|T20336|tc: det er |tc:go gresk|tc:  for meg|tf: uforståelig
+0|T20335|tc:go greske|tc:  skipsredere
+0|T20334|tc:go greske|tc:  bokstaver
+0|T20333|tc:go greske|tc:  templer
+0|T20332|tc: vakker som en |tc:go gresk|tc:  gud

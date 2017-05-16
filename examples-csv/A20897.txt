@@ -1,0 +1,12 @@
+0|L24192|la A20897|l:hg 1|lx H24192P700|lx H24192P890
+0|H24192P700|xp P700|x:m gresken:gresker:greskene
+0|P700|pbid 200|p:pg m1
+0|H24192P890|xp P890
+0|P890|pbid 360|p:pg n.
+0|A20897|a 20897|ao O1A20897
+0|O1A20897|od D24779
+0|D24779|dtnn T2377459|dtnn T20331|dtnn T20330|dtnn T20329
+0|T2377459|tm: gresk språk
+0|T20331|tc: lese |tc:go gresk
+0|T20330|tc: klassisk |tc:go gresk
+0|T20329|tc: ny|tc:go gresk
