@@ -1,3 +1,28 @@
+
+
+============================A49456 : ('rå',)
+ES244166 K43                                                  aes  esk                      k:       norrønt
+ES244166                                                      aes                           ess:go   hrá
+O1A49456                                                      ao                            o:n      1
+O1A49456 D59879 T2413075 RN54013                              ao  od  dtnn  rn              ra:      [stang]0
+O2A49456                                                      ao                            o:n      2
+O2A49456 D59880 T2413076                                      ao  od  dtnn                  tm:      rund bom som sitter på tvers av mast på seilskip og bærer seilene
+
+
+
+L57523 H57523P76I 200 m. ['råen:rær:rærne']
+L57523 H57523P946 200 f. ['råa:rær:rærne']
+
+
+norrønt hrá 
+1 
+
+[stang]0 
+2 
+rund bom som sitter på tvers av mast på seilskip og bærer seilene 
+
+
+
 0|L57523|la A49456|l:hg 1|lx H57523P76I|lx H57523P946
 0|H57523P76I|xp P76I|x:m råen:rær:rærne
 0|P76I|pbid 200|p:pg m.

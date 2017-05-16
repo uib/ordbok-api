@@ -1,0 +1,217 @@
+
+
+============================A15544 : ('fly', 'flyge')
+ES233771 K43                                                  aes  esk                      k:       norrønt
+ES233771                                                      aes                           ess:go   fljúga
+O1A15544                                                      ao                            o:n      1
+O1A15544 D18318 T2370798                                      ao  od  dtnn                  tm:      flytte seg i lufta ved hjelp av vinger
+O1A15544 D18318 T14288                                        ao  od  dtnn                  tc:      det fløy opp en flokk ryper
+O1A15544 D18318 T14287                                        ao  od  dtnn                  tc:      fuglene 
+O1A15544 D18318 T14287                                        ao  od  dtnn                  tc:go    flyr
+O1A15544 D18319 T2370800 Q274                                 ao  od  dtnu  tmq             q:       i overført betydning
+O1A15544 D18319 T2370800                                      ao  od  dtnu                  tm:      :
+O1A15544 D18318N1                                             ao  ou                        ua:      [fuglen er, har fløyet]0
+O1A15544 D18318N1 A101924 O1A101924 D2443886 T2442821         ao  ou  ua  ao  od  dtun      tm:      (etter 
+O1A15544 D18318N1 A101924 O1A101924 D2443886 T2442821 Q74     ao  ou  ua  ao  od  dtun  tmq q:       engelsk 
+O1A15544 D18318N1 A101924 O1A101924 D2443886 T2442821         ao  ou  ua  ao  od  dtun      tm:      ) den ettersøkte er, har forduftet
+O2A15544                                                      ao                            o:n      2
+O2A15544 D18320 T2370808                                      ao  od  dtnn                  tm:      frakte med fly
+O2A15544 D18320 T2370807                                      ao  od  dtnn                  tm:      føre et fly
+O2A15544 D18320 T2370806                                      ao  od  dtnn                  tm:      reise med fly
+O2A15544 D18320 T14292                                        ao  od  dtnn                  tc:go    fly
+O2A15544 D18320 T14292                                        ao  od  dtnn                  tc:       helikopter
+O2A15544 D18320 T14291                                        ao  od  dtnn                  tc:go    fly
+O2A15544 D18320 T14291                                        ao  od  dtnn                  tc:       til USA
+O2A15544 D18320 T14290                                        ao  od  dtnn                  tc:      være redd for å 
+O2A15544 D18320 T14290                                        ao  od  dtnn                  tc:go    fly
+O2A15544 D18321 T2370801 Q345                                 ao  od  dtnu  tmq             q:       til forskjell fra 
+O2A15544 D18321 T2370801                                      ao  od  dtnu                  tm:       
+O2A15544 D18321 T2370801 RN38317                              ao  od  dtnu  rn              ra:      [bakkepersonell]0
+O2A15544 D18321 T2370802                                      ao  od  dtnu                  tm:      som 
+O2A15544 D18321 T2370802 Q18                                  ao  od  dtnu  tmq             q:       adjektiv 
+O2A15544 D18321 T2370802                                      ao  od  dtnu                  tm:       i 
+O2A15544 D18321 T2370802 Q288                                 ao  od  dtnu  tmq             q:       presens partisipp 
+O2A15544 D18321 T2370802                                      ao  od  dtnu                  tm:      , om 
+O2A15544 D18321 T2370802 RN38318                              ao  od  dtnu  rn              ra:      [personell]1
+O2A15544 D18321 T2370802                                      ao  od  dtnu                  tm:       i fly
+O2A15544 D18321 T14293                                        ao  od  dtnu                  tc:      flygende personell
+O3A15544                                                      ao                            o:n      3
+O3A15544 D18322 T2370799                                      ao  od  dtnn                  tm:      seile, fare gjennom lufta
+O3A15544 D18322 T14295                                        ao  od  dtnn                  tc:      prisene 
+O3A15544 D18322 T14295                                        ao  od  dtnn                  tc:go    flyr
+O3A15544 D18322 T14295                                        ao  od  dtnn                  tc:       i været
+O3A15544 D18322 T14294                                        ao  od  dtnn                  tc:go    fly
+O3A15544 D18322 T14294                                        ao  od  dtnn                  tc:       i lufta, i flint
+O3A15544 D18323 T2370805                                      ao  od  dtnu                  tm:      gå fort
+O3A15544 D18323 T14297                                        ao  od  dtnu                  tc:      døra fløy opp
+O3A15544 D18323 T14296                                        ao  od  dtnu                  tc:      tiden 
+O3A15544 D18323 T14296                                        ao  od  dtnu                  tc:go    flyr
+O4A15544                                                      ao                            o:n      4
+O4A15544 D18324 T2370804 RN38320                              ao  od  dtnn  rn              ra:      [renne]3
+O4A15544 D18324 T2370804                                      ao  od  dtnn                  tm:      , 
+O4A15544 D18324 T2370804 RN38321                              ao  od  dtnn  rn              ra:      [springe]0
+O4A15544 D18324 T2370804                                      ao  od  dtnn                  tm:      , 
+O4A15544 D18324 T2370804 RN38322                              ao  od  dtnn  rn              ra:      [farte]0
+O4A15544 D18324 T2370804                                      ao  od  dtnn                  tm:      , 
+O4A15544 D18324 T2370804 RN38323                              ao  od  dtnn  rn              ra:      [flakse]0
+O4A15544 D18324 T14301                                        ao  od  dtnn                  tc:go    fly
+O4A15544 D18324 T14301                                        ao  od  dtnn                  tc:       med guttene
+O4A15544 D18324 T14300                                        ao  od  dtnn                  tc:go    fly
+O4A15544 D18324 T14300                                        ao  od  dtnn                  tc:       ute om kveldene
+O4A15544 D18324 T14299                                        ao  od  dtnn                  tc:go    fly
+O4A15544 D18324 T14299                                        ao  od  dtnn                  tc:       hit og dit
+O4A15544 D18324 T14298                                        ao  od  dtnn                  tc:go    fly
+O4A15544 D18324 T14298                                        ao  od  dtnn                  tc:       i synet på en
+O4A15544 D18325 T2370803                                      ao  od  dtnu                  tm:      som 
+O4A15544 D18325 T2370803 Q18                                  ao  od  dtnu  tmq             q:       adjektiv 
+O4A15544 D18325 T2370803                                      ao  od  dtnu                  tm:       i 
+O4A15544 D18325 T2370803 Q288                                 ao  od  dtnu  tmq             q:       presens partisipp 
+O4A15544 D18325 T2370803                                      ao  od  dtnu                  tm:      , om 
+O4A15544 D18325 T2370803 RN38319                              ao  od  dtnu  rn              ra:      [personell]1
+O4A15544 D18325 T2370803                                      ao  od  dtnu                  tm:       i fly
+O4A15544 D18325 T14303                                        ao  od  dtnu                  tc:      mange tanker fløy gjennom hodet mitt
+O4A15544 D18324N1                                             ao  ou                        ua:      [flyende start]0
+O4A15544 D18324N1 A101925 O1A101925 D2443888 T2442822 RN64410 ao  ou  ua  ao  od  dtun  rn  ra:      [flying start]0
+
+
+
+L17851 H17847P21B 100 ve ['flyr:flys:fløy:flydd:flydd:flydd:flydde:flydde:flyende:fly']
+L17851 H17847P242 100 ve ['flyr:flys:fløy:fløyet:fløyet:fløyet:fløyne:fløyne:flyende:fly']
+L17851 H17847P243 100 ve ['flyr:flys:fløy:fløyet:fløyet:fløyen:fløyne:fløyne:flyende:fly']
+L17852 H17852P245 100 ve ['flyger:flyges:fløy:fløyet:fløyet:fløyet:fløyne:fløyne:flygende:flyg']
+L17852 H17852P246 100 ve ['flyger:flyges:fløy:fløyet:fløyet:fløyen:fløyne:fløyne:flygende:flyg']
+
+
+norrønt fljúga 
+1 
+flytte seg i lufta ved hjelp av vinger 
+det fløy opp en flokk ryper 
+fuglene  flyr 
+i overført betydning : 
+
+[fuglen er, har fløyet]0 (etter  engelsk  ) den ettersøkte er, har forduftet 
+2 
+frakte med fly 
+føre et fly 
+reise med fly 
+fly  helikopter 
+fly  til USA 
+være redd for å  fly 
+til forskjell fra    [bakkepersonell]0 
+som  adjektiv   i  presens partisipp  , om  [personell]1  i fly 
+
+flygende personell 
+3 
+seile, fare gjennom lufta 
+prisene  flyr  i været 
+fly  i lufta, i flint 
+gå fort 
+døra fløy opp 
+
+tiden  flyr 
+4 
+[renne]3 ,  [springe]0 ,  [farte]0 ,  [flakse]0 
+fly  med guttene 
+fly  ute om kveldene 
+fly  hit og dit 
+fly  i synet på en 
+som  adjektiv   i  presens partisipp  , om  [personell]1  i fly 
+mange tanker fløy gjennom hodet mitt 
+[flyende start]0 [flying start]0 
+
+
+
+0|L17851|la A15544|l:hg 5|lx H17847P21B|lx H17847P242|lx H17847P243
+0|L17852|la A15544|l:hg 0|lx H17852P245|lx H17852P246
+0|H17847P21B|xp P21B|x:m flyr:flys:fløy:flydd:flydd:flydd:flydde:flydde:flyende:fly
+0|P21B|pbid 100|p:pg ve
+0|H17847P242|xp P242|x:m flyr:flys:fløy:fløyet:fløyet:fløyet:fløyne:fløyne:flyende:fly
+0|P242|pbid 100|p:pg ve
+0|H17847P243|xp P243|x:m flyr:flys:fløy:fløyet:fløyet:fløyen:fløyne:fløyne:flyende:fly
+0|P243|pbid 100|p:pg ve
+0|H17852P245|xp P245|x:m flyger:flyges:fløy:fløyet:fløyet:fløyet:fløyne:fløyne:flygende:flyg
+0|P245|pbid 100|p:pg ve
+0|H17852P246|xp P246|x:m flyger:flyges:fløy:fløyet:fløyet:fløyen:fløyne:fløyne:flygende:flyg
+0|P246|pbid 100|p:pg ve
+0|A15544|a 15544|aes ES233771|ael EL29669|ao O1A15544|ao O2A15544|ao O3A15544|ao O4A15544
+0|ES233771|esk K43|ess:go fljúga
+0|K43|k: norrønt
+0|O1A15544|o:n 1|od D18318|od D18319|ou D18318N1
+0|D18318|dtnn T2370798|dtnn T14288|dtnn T14287
+0|T2370798|tm: flytte seg i lufta ved hjelp av vinger
+0|T14288|tc: det fløy opp en flokk ryper
+0|T14287|tc: fuglene |tc:go flyr
+0|D18319|dtnu T2370800
+0|T2370800|tmq Q274|tm: :
+0|Q274|q: i overført betydning|q overf
+0|D18318N1|ua A101924
+0|L107137|la A101924|l:hg 0
+0|H107137|h fuglen er, har fløyet|hl L107137
+0|A101924|a 101924|ao O1A101924
+0|O1A101924|od D2443886
+0|D2443886|dtun T2442821
+0|T2442821|tm: (etter |tmq Q74|tm: ) den ettersøkte er, har forduftet
+0|Q74|q: engelsk |q eng
+0|O2A15544|o:n 2|od D18320|od D18321
+0|D18320|dtnn T2370808|dtnn T2370807|dtnn T2370806|dtnn T14292|dtnn T14291|dtnn T14290
+0|T2370808|tm: frakte med fly
+0|T2370807|tm: føre et fly
+0|T2370806|tm: reise med fly
+0|T14292|tc:go fly|tc:  helikopter
+0|T14291|tc:go fly|tc:  til USA
+0|T14290|tc: være redd for å |tc:go fly
+0|D18321|dtnu T2370801|dtnu T2370802|dtnu T14293
+0|T2370801|tmq Q345|tm:  |rn RN38317
+0|Q345|q: til forskjell fra |q t_forsk_f
+0|RN38317|ra A4148
+0|L4634|la A4148|l:hg 0|lx H4634P800|lx H4634P801|lx H4634P810|lx H4634P811
+0|H4634|h bakkepersonell|hl L4634
+0|T2370802|tm: som |tmq Q18|tm:  i |tmq Q288|tm: , om |rn RN38318|tm:  i fly
+0|Q18|q: adjektiv |q adj
+0|Q288|q: presens partisipp |q pr_pt
+0|RN38318|ra A44774
+0|L52413|la A44774|l:hg 1|lx H52413P800|lx H52413P801|lx H52413P810|lx H52413P811
+0|H52413|h personell|hl L52413|hl L52414
+0|T14293|tc: flygende personell
+0|O3A15544|o:n 3|od D18322|od D18323
+0|D18322|dtnn T2370799|dtnn T14295|dtnn T14294
+0|T2370799|tm: seile, fare gjennom lufta
+0|T14295|tc: prisene |tc:go flyr|tc:  i været
+0|T14294|tc:go fly|tc:  i lufta, i flint
+0|D18323|dtnu T2370805|dtnu T14297|dtnu T14296
+0|T2370805|tm: gå fort
+0|T14297|tc: døra fløy opp
+0|T14296|tc: tiden |tc:go flyr
+0|O4A15544|o:n 4|od D18324|od D18325|ou D18324N1
+0|D18324|dtnn T2370804|dtnn T14301|dtnn T14300|dtnn T14299|dtnn T14298
+0|T2370804|rn RN38320|tm: , |rn RN38321|tm: , |rn RN38322|tm: , |rn RN38323
+0|RN38320|ra A48113
+0|L55984|la A48113|l:hg 3|lx H55982P021
+0|H55982|h renne|hl L55982|hl L55983|hl L55984
+0|RN38321|ra A56369
+0|L65849|la A56369|l:hg 0|lx H65849P259|lx H65849P260
+0|H65849|h springe|hl L65849
+0|RN38322|ra A13940
+0|L15921|la A13940|l:hg 0|lx H15921P001|lx H15921P010|lx H15921P011
+0|H15921|h farte|hl L15921
+0|RN38323|ra A15208
+0|L17457|la A15208|l:hg 0|lx H17457P001|lx H17457P010|lx H17457P011
+0|H17457|h flakse|hl L17457
+0|T14301|tc:go fly|tc:  med guttene
+0|T14300|tc:go fly|tc:  ute om kveldene
+0|T14299|tc:go fly|tc:  hit og dit
+0|T14298|tc:go fly|tc:  i synet på en
+0|D18325|dtnu T2370803|dtnu T14303
+0|T2370803|tm: som |tmq Q18|tm:  i |tmq Q288|tm: , om |rn RN38319|tm:  i fly
+0|RN38319|ra A44774
+0|T14303|tc: mange tanker fløy gjennom hodet mitt
+0|D18324N1|ua A101925
+0|L107138|la A101925|l:hg 0
+0|H107138|h flyende start|hl L107138
+0|A101925|a 101925|ao O1A101925
+0|O1A101925|od D2443888
+0|D2443888|dtun T2442822
+0|T2442822|rn RN64410
+0|RN64410|ra A15578
+0|L17907|la A15578|l:hg 0|lx H17907P790
+0|H17907|h flying start|hl L17907

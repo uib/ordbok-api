@@ -1,3 +1,76 @@
+
+
+============================A56729 : ('stas',)
+ES246067                                                      aes                           esi:     av
+ES246067 K33                                                  aes  esk                      k:       middelalderlatin
+ES246067                                                      aes                           ess:go   statio
+ES246067                                                      aes                           ess:      'stans under prosesjon' og 
+ES246067 Q108                                                 aes  essq                     q:       genitiv 
+ES246067                                                      aes                           ess:      av
+ES246068 Q65                                                  aes  esiq                     q:       eldre 
+ES246068 K4                                                   aes  esk                      k:       dansk
+ES246068                                                      aes                           ess:go   stat
+ES246068                                                      aes                           ess:      'stas, prakt'
+RE127844 Q38                                                  re  riq                       q:       beslektet 
+RE127844                                                      re                            ri:       med
+RE127844                                                      re                            ra:      [stasjon]0
+EL29241 Q351                                                  ael  eliq                     q:       trolig 
+EL29241                                                       ael                           eli:      sammenfall av 
+EL29241 Q209                                                  ael  eliq                     q:       lavtysk 
+EL29241                                                       ael                           eli:      
+EL29241                                                       ael                           eli:go   stacie
+EL29241                                                       ael                           eli:      '(kirkelig) prosesjon, prakt'
+O1A56729                                                      ao                            o:n      1
+O1A56729 D69253 T2422338 RN57518                              ao  od  dtnn  rn              ra:      [pynt]2
+O1A56729 D69253 T2422338                                      ao  od  dtnn                  tm:      , 
+O1A56729 D69253 T2422338 RN57519                              ao  od  dtnn  rn              ra:      [prakt]0
+O1A56729 D69253 T51236                                        ao  od  dtnn                  tc:      være kledd i sin fineste 
+O1A56729 D69253 T51236                                        ao  od  dtnn                  tc:go    stas
+O1A56729 D69253N1                                             ao  ou                        ua:      [hele stasen]0
+O1A56729 D69253N1 A105438 O1A105438 D2450914 T2446340         ao  ou  ua  ao  od  dtun      tm:      alt sammen
+O1A56729 D69253N2                                             ao  ou                        ua:      [på stas]0
+O1A56729 D69253N2 A105439 O1A105439 D2450916 T2446341         ao  ou  ua  ao  od  dtun      tm:      (gå, sitte) pyntet uten å gjøre nyttig arbeid, ha gode dager
+O1A56729 D69253N3                                             ao  ou                        ua:      [til stas]0
+O1A56729 D69253N3 A105440 O1A105440 D2450918 T2446342         ao  ou  ua  ao  od  dtun      tm:      til pynt
+O2A56729                                                      ao                            o:n      2
+O2A56729 D69254 T2422339 RN57520                              ao  od  dtnn  rn              ra:      [moro]1
+O2A56729 D69254 T2422339                                      ao  od  dtnn                  tm:      , festlighet
+O2A56729 D69254 T51240                                        ao  od  dtnn                  tc:      barna synes det er 
+O2A56729 D69254 T51240                                        ao  od  dtnn                  tc:go    stas
+O2A56729 D69254 T51240                                        ao  od  dtnn                  tc:       med julen
+O2A56729 D69255 T2422337 RN57517                              ao  od  dtnu  rn              ra:      [glede]1
+O2A56729 D69255 T51242                                        ao  od  dtnu                  tc:      gjøre 
+O2A56729 D69255 T51242                                        ao  od  dtnu                  tc:go    stas
+O2A56729 D69255 T51242                                        ao  od  dtnu                  tc:       på en
+O2A56729 D69255 T51242                                        ao  od  dtnu                  tf:      vise stor oppmerksomhet, hylle
+O2A56729 D69255 T51241                                        ao  od  dtnu                  tc:      det ble stor 
+O2A56729 D69255 T51241                                        ao  od  dtnu                  tc:go    stas
+O2A56729 D69255 T51241                                        ao  od  dtnu                  tc:       da de traff hverandre igjen
+
+
+
+L66235 H66235P700 200 m1 ['stasen:staser:stasene']
+
+av middelalderlatin statio  'stans under prosesjon' og  genitiv   av 
+eldre  dansk stat  'stas, prakt' beslektet   med [stasjon]0 
+
+trolig   sammenfall av  lavtysk    stacie  '(kirkelig) prosesjon, prakt' 
+1 
+[pynt]2 ,  [prakt]0 
+være kledd i sin fineste  stas 
+[hele stasen]0 alt sammen 
+[på stas]0 (gå, sitte) pyntet uten å gjøre nyttig arbeid, ha gode dager 
+
+[til stas]0 til pynt 
+2 
+[moro]1 , festlighet 
+barna synes det er  stas  med julen 
+[glede]1 
+gjøre  stas  på en vise stor oppmerksomhet, hylle 
+det ble stor  stas  da de traff hverandre igjen 
+
+
+
 0|L66235|la A56729|l:hg 0|lx H66235P700
 0|H66235P700|xp P700|x:m stasen:staser:stasene
 0|P700|pbid 200|p:pg m1

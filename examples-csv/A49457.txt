@@ -1,3 +1,23 @@
+
+
+============================A49457 : ('rå',)
+ES244165 K43                                                  aes  esk                      k:       norrønt
+ES244165                                                      aes                           ess:go   rá
+O1A49457 D59881 T2413077                                      ao  od  dtnn                  tm:      rådyrhunn
+O1A49457 D59881 T2413078 RT54014 Q189                         ao  od  dtnn  rt  riq         q:       jamfør
+O1A49457 D59881 T2413078 RT54014                              ao  od  dtnn  rt              ra:      [råbukk]0
+
+
+
+L57524 H57523P700 200 m1 ['råen:råer:råene']
+L57524 H57523P900 200 f1 ['råa:råer:råene']
+
+norrønt rá 
+rådyrhunn 
+jamfør [råbukk]0 
+
+
+
 0|L57524|la A49457|l:hg 2|lx H57523P700|lx H57523P900
 0|H57523P700|xp P700|x:m råen:råer:råene
 0|P700|pbid 200|p:pg m1

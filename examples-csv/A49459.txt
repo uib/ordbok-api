@@ -1,3 +1,124 @@
+
+
+============================A49459 : ('rå',)
+ES244164 K43                                                  aes  esk                      k:       norrønt
+ES244164                                                      aes                           ess:go   rár
+O1A49459                                                      ao                            o:n      1
+O1A49459 D59883 T2413080                                      ao  od  dtnn                  tm:      som ikke er (tilstrekkelig) kokt 
+O1A49459 D59883 T2413080 Q70                                  ao  od  dtnn  tmq             q:        eller 
+O1A49459 D59883 T2413080                                      ao  od  dtnn                  tm:       stekt
+O1A49459 D59883 T44813                                        ao  od  dtnn                  tc:      brødet var rått inni
+O1A49459 D59883 T44812                                        ao  od  dtnn                  tc:      rått kjøtt
+O1A49459 D59884 T2413082                                      ao  od  dtnu                  tm:      som 
+O1A49459 D59884 T2413082 Q20                                  ao  od  dtnu  tmq             q:       adverb 
+O1A49459 D59884 T2413082                                      ao  od  dtnu                  tm:      :
+O1A49459 D59883N1                                             ao  ou                        ua:      [sluke rått]0
+O1A49459 D59883N1 A104714 O1A104714 D2449466 T2445615         ao  ou  ua  ao  od  dtun      tm:      godta (noe) kritikkløst
+O2A49459                                                      ao                            o:n      2
+O2A49459 D59885 T2413084                                      ao  od  dtnn                  tm:      ubearbeidet, 
+O2A49459 D59885 T2413084 RN54015                              ao  od  dtnn  rn              ra:      [urensa|urenset]0|0
+O2A49459 D59885 T44816                                        ao  od  dtnn                  tc:      rå sprit
+O2A49459 D59885 T44815                                        ao  od  dtnn                  tc:      rå huder
+O3A49459                                                      ao                            o:n      3
+O3A49459 D59886 T2413087 RN54018                              ao  od  dtnn  rn              ra:      [grov]0
+O3A49459 D59886 T2413087                                      ao  od  dtnn                  tm:      , 
+O3A49459 D59886 T2413087 RN54019                              ao  od  dtnn  rn              ra:      [ukultivert]0
+O3A49459 D59886 T44818                                        ao  od  dtnn                  tc:      en rå latter
+O3A49459 D59886 T44817                                        ao  od  dtnn                  tc:      være plump og rå
+O3A49459 D59887 T2413083                                      ao  od  dtnu                  tm:      som 
+O3A49459 D59887 T2413083 Q20                                  ao  od  dtnu  tmq             q:       adverb 
+O3A49459 D59887 T2413083                                      ao  od  dtnu                  tm:      :
+O3A49459 D59887 T44819                                        ao  od  dtnu                  tc:      le rått
+O3A49459 D59888 T2413085 RN54016                              ao  od  dtnu  rn              ra:      [brutal]0
+O3A49459 D59888 T2413085                                      ao  od  dtnu                  tm:      , 
+O3A49459 D59888 T2413085 RN54017                              ao  od  dtnu  rn              ra:      [pøbelaktig]0
+O3A49459 D59888 T44821                                        ao  od  dtnu                  tc:      et rått ran
+O3A49459 D59888 T44820                                        ao  od  dtnu                  tc:      være rå og hjerteløs
+O3A49459 D59889 T2413086                                      ao  od  dtnu                  tm:      som 
+O3A49459 D59889 T2413086 Q20                                  ao  od  dtnu  tmq             q:       adverb 
+O3A49459 D59889 T2413086                                      ao  od  dtnu                  tm:      :
+O3A49459 D59889 T44822                                        ao  od  dtnu                  tc:      kjøre rått
+O3A49459 D59890 T2413089 RN54022                              ao  od  dtnu  rn              ra:      [ublu]0
+O3A49459 D59890 T44823                                        ao  od  dtnu                  tc:      en rå pris
+O3A49459 D59891 T2413090 RN54023                              ao  od  dtnu  rn              ra:      [slibrig]0
+O3A49459 D59891 T44825                                        ao  od  dtnu                  tc:      en rå vits
+O3A49459 D59892 T2413092                                      ao  od  dtnu                  tm:      som 
+O3A49459 D59892 T2413092 Q20                                  ao  od  dtnu  tmq             q:       adverb 
+O3A49459 D59892 T2413092                                      ao  od  dtnu                  tm:      :
+O3A49459 D59892 T44826                                        ao  od  dtnu                  tc:      snakke rått
+O3A49459 D59886N1                                             ao  ou                        ua:      [rått parti]0
+O3A49459 D59886N1 A104715 O1A104715 D2449468 T2445616         ao  ou  ua  ao  od  dtun      tm:      fullstendig utklassing
+O4A49459                                                      ao                            o:n      4
+O4A49459 D59893 T2413088 RN54020                              ao  od  dtnn  rn              ra:      [fuktig]0
+O4A49459 D59893 T2413088                                      ao  od  dtnn                  tm:      , 
+O4A49459 D59893 T2413088 RN54021                              ao  od  dtnn  rn              ra:      [våt]0
+O4A49459 D59893 T44829                                        ao  od  dtnn                  tc:      rå ved
+O4A49459 D59893 T44828                                        ao  od  dtnn                  tc:      bli rå på beina
+O4A49459 D59893 T44827                                        ao  od  dtnn                  tc:      rå tåke
+O5A49459                                                      ao                            o:n      5
+O5A49459 D59894 T2413091 RN54024                              ao  od  dtnn  rn              ra:      [utrolig|utrulig]0|0
+O5A49459 D59894 T2413091                                      ao  od  dtnn                  tm:      , 
+O5A49459 D59894 T2413091 RN54025                              ao  od  dtnn  rn              ra:      [fenomenal]0
+O5A49459 D59894 T44831                                        ao  od  dtnn                  tc:      sistehoppet hans var helt rått
+O5A49459 D59894 T44830                                        ao  od  dtnn                  tc:      en målvakt med en rå reaksjonsevne
+O5A49459 D59895 T2413081                                      ao  od  dtnu                  tm:      som 
+O5A49459 D59895 T2413081 Q20                                  ao  od  dtnu  tmq             q:       adverb 
+O5A49459 D59895 T2413081                                      ao  od  dtnu                  tm:      :
+O5A49459 D59895 T44832                                        ao  od  dtnu                  tc:      ha det rått morsomt
+
+
+
+L57526 H57523P502 160 ad ['råe:råe:rått:råere:råest:råeste']
+L57526 H57523P506 160 ad ['rå:rå:rått:råere:råest:råeste']
+
+
+norrønt rár 
+1 
+som ikke er (tilstrekkelig) kokt   eller   stekt 
+brødet var rått inni 
+rått kjøtt 
+som  adverb  : 
+
+[sluke rått]0 godta (noe) kritikkløst 
+2 
+ubearbeidet,  [urensa|urenset]0|0 
+rå sprit 
+
+rå huder 
+3 
+[grov]0 ,  [ukultivert]0 
+en rå latter 
+være plump og rå 
+som  adverb  : 
+le rått 
+[brutal]0 ,  [pøbelaktig]0 
+et rått ran 
+være rå og hjerteløs 
+som  adverb  : 
+kjøre rått 
+[ublu]0 
+en rå pris 
+[slibrig]0 
+en rå vits 
+som  adverb  : 
+snakke rått 
+
+[rått parti]0 fullstendig utklassing 
+4 
+[fuktig]0 ,  [våt]0 
+rå ved 
+bli rå på beina 
+
+rå tåke 
+5 
+[utrolig|utrulig]0|0 ,  [fenomenal]0 
+sistehoppet hans var helt rått 
+en målvakt med en rå reaksjonsevne 
+som  adverb  : 
+ha det rått morsomt 
+
+
+
 0|L57526|la A49459|l:hg 4|lx H57523P502|lx H57523P506
 0|H57523P502|xp P502|x:m råe:råe:rått:råere:råest:råeste
 0|P502|pbid 160|p:pg ad

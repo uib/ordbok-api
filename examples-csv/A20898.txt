@@ -1,3 +1,42 @@
+
+
+============================A20898 : ('gresk',)
+ES235240 K43                                                  aes  esk                      k:       norrønt
+ES235240                                                      aes                           ess:go   grikkskr
+RE122670                                                      re                            ri:      se
+RE122670                                                      re                            ra:      [greker]0
+O1A20898 D24780 T2377460 RT41189 Q189                         ao  od  dtnn  rt  riq         q:       jamfør
+O1A20898 D24780 T2377460 RT41189                              ao  od  dtnn  rt              ra:      [hellensk]0
+O1A20898 D24780 T2377461                                      ao  od  dtnn                  tm:      som gjelder Hellas og grekere
+O1A20898 D24780 T20336                                        ao  od  dtnn                  tc:      det er 
+O1A20898 D24780 T20336                                        ao  od  dtnn                  tc:go    gresk
+O1A20898 D24780 T20336                                        ao  od  dtnn                  tc:       for meg
+O1A20898 D24780 T20336                                        ao  od  dtnn                  tf:      uforståelig
+O1A20898 D24780 T20335                                        ao  od  dtnn                  tc:go    greske
+O1A20898 D24780 T20335                                        ao  od  dtnn                  tc:       skipsredere
+O1A20898 D24780 T20334                                        ao  od  dtnn                  tc:go    greske
+O1A20898 D24780 T20334                                        ao  od  dtnn                  tc:       bokstaver
+O1A20898 D24780 T20333                                        ao  od  dtnn                  tc:go    greske
+O1A20898 D24780 T20333                                        ao  od  dtnn                  tc:       templer
+O1A20898 D24780 T20332                                        ao  od  dtnn                  tc:      vakker som en 
+O1A20898 D24780 T20332                                        ao  od  dtnn                  tc:go    gresk
+O1A20898 D24780 T20332                                        ao  od  dtnn                  tc:       gud
+
+
+
+L24193 H24192P518 160 a4 ['greske:greske:gresk:gresk:gresk:gresk']
+
+norrønt grikkskr se [greker]0 
+jamfør [hellensk]0 
+som gjelder Hellas og grekere 
+det er  gresk  for meg uforståelig 
+greske  skipsredere 
+greske  bokstaver 
+greske  templer 
+vakker som en  gresk  gud 
+
+
+
 0|L24193|la A20898|l:hg 2|lx H24192P518
 0|H24192P518|xp P518|x:m greske:greske:gresk:gresk:gresk:gresk
 0|P518|pbid 160|p:pg a4

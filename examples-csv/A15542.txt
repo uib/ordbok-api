@@ -1,0 +1,62 @@
+
+
+============================A15542 : ('fly',)
+RE121445 Q98                                                  re  riq                       q:       forkorting
+RE121445                                                      re                            ri:       for
+RE121445                                                      re                            ra:      [flygemaskin|flyvemaskin]0|0
+O1A15542 D18316 T2370796 Q345                                 ao  od  dtnn  tmq             q:       til forskjell fra 
+O1A15542 D18316 T2370796                                      ao  od  dtnn                  tm:       
+O1A15542 D18316 T2370796 RN38316                              ao  od  dtnn  rn              ra:      [helikopter]0
+O1A15542 D18316 T2370795                                      ao  od  dtnn                  tm:      mekanisk drevet luftfartøy med vinger
+O1A15542 D18316 T14285                                        ao  od  dtnn                  tc:      tar du tog 
+O1A15542 D18316 T14285 Q70                                    ao  od  dtnn  tcq             q:        eller 
+O1A15542 D18316 T14285                                        ao  od  dtnn                  tc:       
+O1A15542 D18316 T14285                                        ao  od  dtnn                  tc:go    fly
+O1A15542 D18316 T14285                                        ao  od  dtnn                  tc:      ?
+O1A15542 D18316 T14284                                        ao  od  dtnn                  tc:go    flyet
+O1A15542 D18316 T14284                                        ao  od  dtnn                  tc:       kunne ikke gå ned på grunn av tåke
+O1A15542 D18316 T14283                                        ao  od  dtnn                  tc:      jet
+O1A15542 D18316 T14283                                        ao  od  dtnn                  tc:go    fly
+O1A15542 D18316 T14283                                        ao  od  dtnn                  tc:      , propell
+O1A15542 D18316 T14283                                        ao  od  dtnn                  tc:go    fly
+O1A15542 D18316 T14283                                        ao  od  dtnn                  tc:      , sjø
+O1A15542 D18316 T14283                                        ao  od  dtnn                  tc:go    fly
+
+
+
+L17849 H17847P800 200 n1 ['flyet:fly:flya']
+L17849 H17847P810 200 n1 ['flyet:fly:flyene']
+
+forkorting  for [flygemaskin|flyvemaskin]0|0 
+til forskjell fra    [helikopter]0 
+mekanisk drevet luftfartøy med vinger 
+tar du tog   eller    fly ? 
+flyet  kunne ikke gå ned på grunn av tåke 
+jet fly , propell fly , sjø fly 
+
+
+
+0|L17849|la A15542|l:hg 3|lx H17847P800|lx H17847P810
+0|H17847P800|xp P800|x:m flyet:fly:flya
+0|P800|pbid 200|p:pg n1
+0|H17847P810|xp P810|x:m flyet:fly:flyene
+0|P810|pbid 200|p:pg n1
+0|A15542|a 15542|re RE121445|ao O1A15542
+0|RE121445|riq Q98|ri:  for|ra A15570
+0|Q98|q: forkorting|q fork_ing
+0|L17894|la A15570|l:hg 0|lx H17894P700
+0|L17895|la A15570|l:hg 0|lx H17895P700
+0|H17894|h flygemaskin|hl L17894
+0|H17895|h flyvemaskin|hl L17895
+0|O1A15542|od D18316
+0|D18316|dtnn T2370796|dtnn T2370795|dtnn T14285|dtnn T14284|dtnn T14283
+0|T2370796|tmq Q345|tm:  |rn RN38316
+0|Q345|q: til forskjell fra |q t_forsk_f
+0|RN38316|ra A23000
+0|L26844|la A23000|l:hg 0|lx H26844P815|lx H26844P816|lx H26844P824|lx H26844P825
+0|H26844|h helikopter|hl L26844
+0|T2370795|tm: mekanisk drevet luftfartøy med vinger
+0|T14285|tc: tar du tog |tcq Q70|tc:  |tc:go fly|tc: ?
+0|Q70|q:  eller |q el
+0|T14284|tc:go flyet|tc:  kunne ikke gå ned på grunn av tåke
+0|T14283|tc: jet|tc:go fly|tc: , propell|tc:go fly|tc: , sjø|tc:go fly
