@@ -2,36 +2,30 @@
 
 ============================A15543 : ('fly',)
 RE121446                                                      re                            ri:      av
-RE121446                                                      re                            ra:      [flyende|flygende]0|0
-O1A15543 D18317 T2370797                                      ao  od  dtnn                  tm:      brukt 
-O1A15543 D18317 T2370797 Q99                                  ao  od  dtnn  tmq             q:       forsterkende 
-O1A15543 D18317 T2370797                                      ao  od  dtnn                  tm:       i 
-O1A15543 D18317 T2370797 Q368                                 ao  od  dtnn  tmq             q:       uttrykket
-O1A15543 D18317 T14286                                        ao  od  dtnn                  tc:go    fly
-O1A15543 D18317 T14286                                        ao  od  dtnn                  tc:       forbanna
+O1A15543 D18317 T2370797                                      ao  od  dtnn                  tm:      brukt
+O1A15543 D18317 T2370797 Q99                                  ao  od  dtnn  q               q:       forsterkende
+O1A15543 D18317 T2370797                                      ao  od  dtnn                  tm:      i
+O1A15543 D18317 T2370797 Q368                                 ao  od  dtnn  q               q:       uttrykket
+O1A15543 D18317 T14286                                        ao  od  dtnn                  yo:      fly
+O1A15543 D18317 T14286                                        ao  od  dtnn                  tc:      forbanna
 
 
 
-L17850 H17847P695 270 ad []
 
-av [flyende|flygende]0|0 
-brukt  forsterkende   i  uttrykket 
-fly  forbanna 
+av 
+brukt forsterkende i uttrykket fly forbanna 
 
 
 
-0|L17850|la A15543|l:hg 4|lx H17847P695
-0|H17847P695|xp P695
-0|P695|pbid 270|p:pg ad
 0|A15543|a 15543|re RE121446|ao O1A15543
 0|RE121446|ri: av|ra A15554
 0|L17864|la A15554|l:hg 0|lx H17864P513
 0|L17865|la A15554|l:hg 0|lx H17865P513
-0|H17864|h flyende|hl L17864
-0|H17865|h flygende|hl L17865
-0|O1A15543|od D18317
+0|H17864|h: flyende|hl L17864
+0|H17865|h: flygende|hl L17865
+0|O1A15543|o:$n 1|od D18317
 0|D18317|dtnn T2370797|dtnn T14286
-0|T2370797|tm: brukt |tmq Q99|tm:  i |tmq Q368
-0|Q99|q: forsterkende |q forst
+0|T2370797|tm: brukt|q Q99|tm: i|q Q368
+0|Q99|q: forsterkende|q forst
 0|Q368|q: uttrykket|q uttr_t
-0|T14286|tc:go fly|tc:  forbanna
+0|T14286|yo: fly|tc: forbanna

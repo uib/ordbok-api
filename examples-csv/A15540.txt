@@ -1,44 +1,35 @@
 
 
 ============================A15540 : ('fly',)
-RE121441 Q38                                                  re  riq                       q:       beslektet 
-RE121441                                                      re                            ri:       med
-RE121441                                                      re                            ra:      [flod]1
+RE121441 Q38                                                  re  q                         q:       beslektet
+RE121441                                                      re                            ri:      med
 RE121442                                                      re                            ri:      og
-RE121442                                                      re                            ra:      [flyte]0
-O1A15540 D18314 T2370793                                      ao  od  dtnn                  tm:      fjellslette, 
-O1A15540 D18314 T2370793 RN38315                              ao  od  dtnn  rn              ra:      [fjellvidde]0
-O1A15540 D18314 T14282                                        ao  od  dtnn                  tc:      mose
-O1A15540 D18314 T14282                                        ao  od  dtnn                  tc:go    fly
+O1A15540 D18314 T2370793                                      ao  od  dtnn                  tm:      fjellslette,
+O1A15540 D18314 T14282                                        ao  od  dtnn                  ztc:     mose
+O1A15540 D18314 T14282                                        ao  od  dtnn                  yo:      fly
 
 
 
-L17847 H17847P700 200 m1 ['flyen:flyer:flyene']
-L17847 H17847P900 200 f1 ['flya:flyer:flyene']
 
-beslektet   med [flod]1 og [flyte]0 
-fjellslette,  [fjellvidde]0 
+beslektet med 
+og 
+fjellslette, 
 mose fly 
 
 
 
-0|L17847|la A15540|l:hg 1|lx H17847P700|lx H17847P900
-0|H17847P700|xp P700|x:m flyen:flyer:flyene
-0|P700|pbid 200|p:pg m1
-0|H17847P900|xp P900|x:m flya:flyer:flyene
-0|P900|pbid 200|p:pg f1
 0|A15540|a 15540|re RE121441|re RE121442|ao O1A15540
-0|RE121441|riq Q38|ri:  med|ra A15434
-0|Q38|q: beslektet |q besl
+0|RE121441|q Q38|ri: med|ra A15434
+0|Q38|q: beslektet|q besl
 0|L17733|la A15434|l:hg 1|lx H17733P700|lx H17733P900
-0|H17733|h flod|hl L17733|hl L17734
+0|H17733|h: flod|hl L17733|hl L17734
 0|RE121442|ri: og|ra A15609
 0|L17937|la A15609|l:hg 0|lx H17937P215|lx H17937P231
-0|H17937|h flyte|hl L17937
-0|O1A15540|od D18314
+0|H17937|h: flyte|hl L17937
+0|O1A15540|o:$n 1|od D18314
 0|D18314|dtnn T2370793|dtnn T14282
-0|T2370793|tm: fjellslette, |rn RN38315
+0|T2370793|tm: fjellslette,|rn RN38315
 0|RN38315|ra A15039
 0|L17238|la A15039|l:hg 0|lx H17238P702|lx H17238P902
-0|H17238|h fjellvidde|hl L17238
-0|T14282|tc: mose|tc:go fly
+0|H17238|h: fjellvidde|hl L17238
+0|T14282|ztc: mose|yo: fly

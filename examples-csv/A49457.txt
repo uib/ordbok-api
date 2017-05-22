@@ -2,35 +2,25 @@
 
 ============================A49457 : ('rå',)
 ES244165 K43                                                  aes  esk                      k:       norrønt
-ES244165                                                      aes                           ess:go   rá
+ES244165                                                      aes                           yo:      rá
 O1A49457 D59881 T2413077                                      ao  od  dtnn                  tm:      rådyrhunn
-O1A49457 D59881 T2413078 RT54014 Q189                         ao  od  dtnn  rt  riq         q:       jamfør
-O1A49457 D59881 T2413078 RT54014                              ao  od  dtnn  rt              ra:      [råbukk]0
+O1A49457 D59881 T2413078 RT54014 Q189                         ao  od  dtnn  rt  q           q:       jamfør
 
 
 
-L57524 H57523P700 200 m1 ['råen:råer:råene']
-L57524 H57523P900 200 f1 ['råa:råer:råene']
 
-norrønt rá 
-rådyrhunn 
-jamfør [råbukk]0 
+norrønt rá rådyrhunn jamfør 
 
 
 
-0|L57524|la A49457|l:hg 2|lx H57523P700|lx H57523P900
-0|H57523P700|xp P700|x:m råen:råer:råene
-0|P700|pbid 200|p:pg m1
-0|H57523P900|xp P900|x:m råa:råer:råene
-0|P900|pbid 200|p:pg f1
 0|A49457|a 49457|aes ES244165|ao O1A49457
-0|ES244165|esk K43|ess:go rá
+0|ES244165|esk K43|yo: rá
 0|K43|k: norrønt
-0|O1A49457|od D59881
+0|O1A49457|o:$n 1|od D59881
 0|D59881|dtnn T2413077|dtnn T2413078
 0|T2413077|tm: rådyrhunn
 0|T2413078|rt RT54014
-0|RT54014|riq Q189|ra A49464
+0|RT54014|q Q189|ra A49464
 0|Q189|q: jamfør|q jf
 0|L57533|la A49464|l:hg 0|lx H57533P700
-0|H57533|h råbukk|hl L57533
+0|H57533|h: råbukk|hl L57533

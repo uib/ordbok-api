@@ -2,34 +2,24 @@
 
 ============================A20897 : ('gresk',)
 O1A20897 D24779 T2377459                                      ao  od  dtnn                  tm:      gresk språk
-O1A20897 D24779 T20331                                        ao  od  dtnn                  tc:      lese 
-O1A20897 D24779 T20331                                        ao  od  dtnn                  tc:go    gresk
-O1A20897 D24779 T20330                                        ao  od  dtnn                  tc:      klassisk 
-O1A20897 D24779 T20330                                        ao  od  dtnn                  tc:go    gresk
-O1A20897 D24779 T20329                                        ao  od  dtnn                  tc:      ny
-O1A20897 D24779 T20329                                        ao  od  dtnn                  tc:go    gresk
+O1A20897 D24779 T20331                                        ao  od  dtnn                  tc:      lese
+O1A20897 D24779 T20331                                        ao  od  dtnn                  yo:      gresk
+O1A20897 D24779 T20330                                        ao  od  dtnn                  tc:      klassisk
+O1A20897 D24779 T20330                                        ao  od  dtnn                  yo:      gresk
+O1A20897 D24779 T20329                                        ao  od  dtnn                  ztc:     ny
+O1A20897 D24779 T20329                                        ao  od  dtnn                  yo:      gresk
 
 
 
-L24192 H24192P700 200 m1 ['gresken:gresker:greskene']
-L24192 H24192P890 360 n. []
 
-gresk språk 
-lese  gresk 
-klassisk  gresk 
-ny gresk 
+gresk språk lese gresk klassisk gresk ny gresk 
 
 
 
-0|L24192|la A20897|l:hg 1|lx H24192P700|lx H24192P890
-0|H24192P700|xp P700|x:m gresken:gresker:greskene
-0|P700|pbid 200|p:pg m1
-0|H24192P890|xp P890
-0|P890|pbid 360|p:pg n.
 0|A20897|a 20897|ao O1A20897
-0|O1A20897|od D24779
+0|O1A20897|o:$n 1|od D24779
 0|D24779|dtnn T2377459|dtnn T20331|dtnn T20330|dtnn T20329
 0|T2377459|tm: gresk språk
-0|T20331|tc: lese |tc:go gresk
-0|T20330|tc: klassisk |tc:go gresk
-0|T20329|tc: ny|tc:go gresk
+0|T20331|tc: lese|yo: gresk
+0|T20330|tc: klassisk|yo: gresk
+0|T20329|ztc: ny|yo: gresk

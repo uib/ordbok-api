@@ -1,38 +1,30 @@
 
 
 ============================A15541 : ('fly',)
-RE121443 Q38                                                  re  riq                       q:       beslektet 
-RE121443                                                      re                            ri:       med
-RE121443                                                      re                            ra:      [fly|flyge]5|0
+RE121443 Q38                                                  re  q                         q:       beslektet
+RE121443                                                      re                            ri:      med
 RE121444                                                      re                            ri:      og
-RE121444                                                      re                            ra:      [flue]0
 O1A15541 D18315 T2370794                                      ao  od  dtnn                  tm:      småinsekt
 
 
 
-L17848 H17847P800 200 n1 ['flyet:fly:flya']
-L17848 H17847P810 200 n1 ['flyet:fly:flyene']
 
-beslektet   med [fly|flyge]5|0 og [flue]0 
+beslektet med 
+og 
 småinsekt 
 
 
 
-0|L17848|la A15541|l:hg 2|lx H17847P800|lx H17847P810
-0|H17847P800|xp P800|x:m flyet:fly:flya
-0|P800|pbid 200|p:pg n1
-0|H17847P810|xp P810|x:m flyet:fly:flyene
-0|P810|pbid 200|p:pg n1
 0|A15541|a 15541|re RE121443|re RE121444|ao O1A15541
-0|RE121443|riq Q38|ri:  med|ra A15544
-0|Q38|q: beslektet |q besl
+0|RE121443|q Q38|ri: med|ra A15544
+0|Q38|q: beslektet|q besl
 0|L17851|la A15544|l:hg 5|lx H17847P21B|lx H17847P242|lx H17847P243
 0|L17852|la A15544|l:hg 0|lx H17852P245|lx H17852P246
-0|H17847|h fly|hl L17847|hl L17848|hl L17849|hl L17850|hl L17851
-0|H17852|h flyge|hl L17852
+0|H17847|h: fly|hl L17847|hl L17848|hl L17849|hl L17850|hl L17851
+0|H17852|h: flyge|hl L17852
 0|RE121444|ri: og|ra A15500
 0|L17804|la A15500|l:hg 0|lx H17804P702|lx H17804P902
-0|H17804|h flue|hl L17804
-0|O1A15541|od D18315
+0|H17804|h: flue|hl L17804
+0|O1A15541|o:$n 1|od D18315
 0|D18315|dtnn T2370794
 0|T2370794|tm: småinsekt

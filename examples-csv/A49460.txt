@@ -2,11 +2,9 @@
 
 ============================A49460 : ('rå', 'råde')
 ES244163 K43                                                  aes  esk                      k:       norrønt
-ES244163                                                      aes                           ess:go   ráða
+ES244163                                                      aes                           yo:      ráða
 O1A49460                                                      ao                            o:n      1
-O1A49460 D59896 T2413094 RN54026                              ao  od  dtnn  rn              ra:      [bestemme]0
-O1A49460 D59896 T2413094                                      ao  od  dtnn                  tm:      , 
-O1A49460 D59896 T2413094 RN54027                              ao  od  dtnn  rn              ra:      [herske]0
+O1A49460 D59896 T2413094                                      ao  od  dtnn                  tm:      ,
 O1A49460 D59896 T44837                                        ao  od  dtnn                  tc:      rå grunnen alene
 O1A49460 D59896 T44836                                        ao  od  dtnn                  tc:      rå over store rikdommer, landområder
 O1A49460 D59896 T44835                                        ao  od  dtnn                  tc:      ikke kunne rå for noe
@@ -15,67 +13,42 @@ O1A49460 D59896 T44833                                        ao  od  dtnn      
 O1A49460 D59897 T2413093                                      ao  od  dtnu                  tm:      herske, være utbredt
 O1A49460 D59897 T44840                                        ao  od  dtnu                  tc:      overalt rådde fortvilelse
 O1A49460 D59897 T44839                                        ao  od  dtnu                  tc:      her inne råder stillheten
-O1A49460 D59896N1                                             ao  ou                        ua:      [rå med]0
 O1A49460 D59896N1 A104716 O1A104716 D2449470 T2445617         ao  ou  ua  ao  od  dtun      tm:      makte, holde styr på
 O2A49460                                                      ao                            o:n      2
 O2A49460 D59898 T2413095                                      ao  od  dtnn                  tm:      gi råd
 O2A49460 D59898 T44841                                        ao  od  dtnn                  tc:      rå fra, til noe
 O3A49460                                                      ao                            o:n      3
-O3A49460 D59899N1                                             ao  ou                        ua:      [rå bot på]0
 O3A49460 D59899N1 A104717 O1A104717 D2449472 T2445618         ao  ou  ua  ao  od  dtun      tm:      rette på, skaffe til veie
 
 
 
-L57527 H57523P040 100 v4 ['rår:rås:rådde:rådd:rådd:rådd:rådde:rådde:rående:rå']
-L57528 H57528P010 100 v1 ['råder:rådes:rådet:rådet:rådet:rådet:rådete:rådete:rådende:råd']
-L57528 H57528P011 100 v1 ['råder:rådes:rådet:rådet:rådet:rådet:rådede:rådede:rådende:råd']
-L57528 H57528P030 100 v3 ['råder:rådes:rådde:rådd:rådd:rådd:rådde:rådde:rådende:råd']
 
 
 norrønt ráða 
 1 
-[bestemme]0 ,  [herske]0 
-rå grunnen alene 
-rå over store rikdommer, landområder 
-ikke kunne rå for noe 
-her er det jeg som rår 
-rå seg selv 
-herske, være utbredt 
-overalt rådde fortvilelse 
-her inne råder stillheten 
+, 
+rå grunnen alene rå over store rikdommer, landområder ikke kunne rå for noe her er det jeg som rår rå seg selv herske, være utbredt overalt rådde fortvilelse her inne råder stillheten 
 
-[rå med]0 makte, holde styr på 
-2 
-gi råd 
+makte, holde styr på 
 
-rå fra, til noe 
+2 gi råd rå fra, til noe 
 3 
-[rå bot på]0 rette på, skaffe til veie 
+rette på, skaffe til veie 
 
 
 
-0|L57527|la A49460|l:hg 5|lx H57523P040
-0|L57528|la A49460|l:hg 2|lx H57528P010|lx H57528P011|lx H57528P030
-0|H57523P040|xp P040|x:m rår:rås:rådde:rådd:rådd:rådd:rådde:rådde:rående:rå
-0|P040|pbid 100|p:pg v4
-0|H57528P010|xp P010|x:m råder:rådes:rådet:rådet:rådet:rådet:rådete:rådete:rådende:råd
-0|P010|pbid 100|p:pg v1
-0|H57528P011|xp P011|x:m råder:rådes:rådet:rådet:rådet:rådet:rådede:rådede:rådende:råd
-0|P011|pbid 100|p:pg v1
-0|H57528P030|xp P030|x:m råder:rådes:rådde:rådd:rådd:rådd:rådde:rådde:rådende:råd
-0|P030|pbid 100|p:pg v3
 0|A49460|a 49460|aes ES244163|ao O1A49460|ao O2A49460|ao O3A49460
-0|ES244163|esk K43|ess:go ráða
+0|ES244163|esk K43|yo: ráða
 0|K43|k: norrønt
-0|O1A49460|o:n 1|od D59896|od D59897|ou D59896N1
+0|O1A49460|o:$n 1|o:n 1|od D59896|od D59897|ou D59896N1
 0|D59896|dtnn T2413094|dtnn T44837|dtnn T44836|dtnn T44835|dtnn T44834|dtnn T44833
-0|T2413094|rn RN54026|tm: , |rn RN54027
+0|T2413094|rn RN54026|tm: ,|rn RN54027
 0|RN54026|ra A5529
 0|L6231|la A5529|l:hg 0|lx H6231P022
-0|H6231|h bestemme|hl L6231
+0|H6231|h: bestemme|hl L6231
 0|RN54027|ra A23404
 0|L27334|la A23404|l:hg 0|lx H27334P001|lx H27334P010|lx H27334P011
-0|H27334|h herske|hl L27334
+0|H27334|h: herske|hl L27334
 0|T44837|tc: rå grunnen alene
 0|T44836|tc: rå over store rikdommer, landområder
 0|T44835|tc: ikke kunne rå for noe
@@ -87,20 +60,20 @@ rå fra, til noe
 0|T44839|tc: her inne råder stillheten
 0|D59896N1|ua A104716
 0|L109929|la A104716|l:hg 0
-0|H109929|h rå med|hl L109929
+0|H109929|h: rå med|hl L109929
 0|A104716|a 104716|ao O1A104716
-0|O1A104716|od D2449470
+0|O1A104716|o:$n 1|od D2449470
 0|D2449470|dtun T2445617
 0|T2445617|tm: makte, holde styr på
-0|O2A49460|o:n 2|od D59898
+0|O2A49460|o:$n 2|o:n 2|od D59898
 0|D59898|dtnn T2413095|dtnn T44841
 0|T2413095|tm: gi råd
 0|T44841|tc: rå fra, til noe
 0|O3A49460|o:n 3|ou D59899N1
 0|D59899N1|ua A104717
 0|L109930|la A104717|l:hg 0
-0|H109930|h rå bot på|hl L109930
+0|H109930|h: rå bot på|hl L109930
 0|A104717|a 104717|ao O1A104717
-0|O1A104717|od D2449472
+0|O1A104717|o:$n 1|od D2449472
 0|D2449472|dtun T2445618
 0|T2445618|tm: rette på, skaffe til veie

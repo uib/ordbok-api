@@ -1,25 +1,20 @@
 
 
 ============================A49458 : ('rå',)
-EL29031 Q69                                                   ael  eliq                     q:       egentlig 
-EL29031                                                       ael                           eli:      'noe stivt'
+EL29031 Q69                                                   ael  q                        q:       egentlig
+EL29031                                                       ael                           eli:     'noe stivt'
 O1A49458 D59882 T2413079                                      ao  od  dtnn                  tm:      kornstaur (med kornband)
 
 
 
-L57525 H57523P700 200 m1 ['råen:råer:råene']
 
-egentlig   'noe stivt' 
-kornstaur (med kornband) 
+egentlig 'noe stivt' kornstaur (med kornband) 
 
 
 
-0|L57525|la A49458|l:hg 3|lx H57523P700
-0|H57523P700|xp P700|x:m råen:råer:råene
-0|P700|pbid 200|p:pg m1
 0|A49458|a 49458|ael EL29031|ao O1A49458
-0|EL29031|eliq Q69|eli:  'noe stivt'
-0|Q69|q: egentlig |q egl
-0|O1A49458|od D59882
+0|EL29031|q Q69|eli: 'noe stivt'
+0|Q69|q: egentlig|q egl
+0|O1A49458|o:$n 1|od D59882
 0|D59882|dtnn T2413079
 0|T2413079|tm: kornstaur (med kornband)
